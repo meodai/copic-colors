@@ -1,7 +1,6 @@
 # copic-colors
 
-Up to date list of copic colors
-Colors extracted from the [official copic website][1].
+Up to date list of copic colors extracted from the [official copic website][1].
 
 - `name`: Name of the color.
 - `number`: Copic color number.
