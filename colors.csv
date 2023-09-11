@@ -1,0 +1,359 @@
+name, link, number, extractedColor, hex, fileName
+Colorless Blender,https://copic.jp/en/color/zero/,0,#ffffff,#ffffff,0.jpg
+Black,https://copic.jp/en/color/100-2/,100,#1e1d22,#000000,100.jpg
+Special Black,https://copic.jp/en/color/110/,110,#201b1d,#000000,110.jpg
+Frost Blue,https://copic.jp/en/color/b00/,B00,#c4fafe,#eaf6f9,B00.jpg
+Pale Porcelain Blue,https://copic.jp/en/color/b000/,B000,#defefe,#edf6f6,B000.jpg
+Pale Celestine,https://copic.jp/en/color/b0000/,B0000,#eefefe,#f6fbfe,B0000.jpg
+Mint Blue,https://copic.jp/en/color/b01/,B01,#a5f0fc,#e1f1f3,B01.jpg
+Robin's Egg Blue,https://copic.jp/en/color/b02/,B02,#82d4fd,#c5e6f0,B02.jpg
+Tahitian Blue,https://copic.jp/en/color/b04/,B04,#43b3f3,#8dd1e7,B04.jpg
+Process Blue,https://copic.jp/en/color/b05/,B05,#3196ea,#64c5e5,B05.jpg
+Peacock Blue,https://copic.jp/en/color/b06/,B06,#1f7ed7,#00ace2,B06.jpg
+Ice Blue,https://copic.jp/en/color/b12/,B12,#9edafd,#d6eaf0,B12.jpg
+Light Blue,https://copic.jp/en/color/b14/,B14,#56a1dc,#8dd1eb,B14.jpg
+Cyanine Blue,https://copic.jp/en/color/classic/b16/,B16,#2c87e2,#01bae7,B16.jpg
+Lapis Lazuli,https://copic.jp/en/color/b18/,B18,#2055c9,#2991c9,B18.jpg
+Baby Blue,https://copic.jp/en/color/b21/,B21,#badefd,#e6f1fa,B21.jpg
+Phthalo Blue,https://copic.jp/en/color/b23/,B23,#749de7,#abcbe9,B23.jpg
+Sky,https://copic.jp/en/color/b24/,B24,#6da6f9,#a3d5f1,B24.jpg
+Cobalt Blue,https://copic.jp/en/color/b26/,B26,#386cce,#7fbbe3,B26.jpg
+Royal Blue,https://copic.jp/en/color/b28/,B28,#1a51d9,#1571b0,B28.jpg
+Ultramarine,https://copic.jp/en/color/b29/,B29,#1643d6,#0077ba,B29.jpg
+Pale Blue,https://copic.jp/en/color/b32/,B32,#aad4fe,#eaf3f7,B32.jpg
+Manganese Blue,https://copic.jp/en/color/b34/,B34,#6687bf,#9bcbeb,B34.jpg
+Antwerp Blue,https://copic.jp/en/color/b37/,B37,#225292,#0472a3,B37.jpg
+Prussian Blue,https://copic.jp/en/color/b39/,B39,#1e397b,#286aa7,B39.jpg
+Powder Blue,https://copic.jp/en/color/b41/,B41,#c6e2fb,#eaf3fb,B41.jpg
+Smoky Blue,https://copic.jp/en/color/b45/,B45,#759bd3,#8fc7ea,B45.jpg
+Soft Greenish Blue,https://copic.jp/en/color/b52/,B52,#98c6dd,#c1d6e1,B52.jpg
+Pale Blue Gray,https://copic.jp/en/color/b60/,B60,#efedfd,#e4e8f4,B60.jpg
+Light Hydrangea,https://copic.jp/en/color/b63/,B63,#babff6,#bcc6e2,B63.jpg
+Clematis,https://copic.jp/en/color/b66/,B66,#5b67cf,#6473b4,B66.jpg
+Stratospheric Blue,https://copic.jp/en/color/b69/,B69,#2336c2,#1967a7,B69.jpg
+Iris,https://copic.jp/en/color/b79/,B79,#1d27a2,#31418f,B79.jpg
+Pale Grayish Blue,https://copic.jp/en/color/b91/,B91,#bed1e6,#e1e9ed,B91.jpg
+Light Crockery Blue,https://copic.jp/en/color/b93/,B93,#9dbbdc,#abcbdf,B93.jpg
+Light Grayish Cobalt,https://copic.jp/en/color/b95/,B95,#80a2ce,#88b0ca,B95.jpg
+Night Blue,https://copic.jp/en/color/b97/,B97,#456795,#45809d,B97.jpg
+Agate,https://copic.jp/en/color/b99/,B99,#344668,#004d7a,B99.jpg
+Pale Aqua,https://copic.jp/en/color/bg000/,BG000,#d8fef7,#f7fbf9,BG000.jpg
+Snow Green,https://copic.jp/en/color/bg0000/,BG0000,#ecfef8,#f5f9f6,BG0000.jpg
+Aqua Blue,https://copic.jp/en/color/bg01/,BG01,#91f2f8,#d6ebf8,BG01.jpg
+New Blue,https://copic.jp/en/color/bg02/,BG02,#72daef,#d4ebed,BG02.jpg
+Holiday Blue,https://copic.jp/en/color/bg05/,BG05,#3baac0,#9cd5e6,BG05.jpg
+Petroleum Blue,https://copic.jp/en/color/bg07/,BG07,#218d9d,#33b8d2,BG07.jpg
+Blue Green,https://copic.jp/en/color/bg09/,BG09,#1d8088,#09b1cd,BG09.jpg
+Cool Shadow,https://copic.jp/en/color/bg10/,BG10,#defdf2,#e7f3f2,BG10.jpg
+Moon White,https://copic.jp/en/color/bg11/,BG11,#d2fcf0,#daeef2,BG11.jpg
+Mint Green,https://copic.jp/en/color/bg13/,BG13,#70d6c1,#d3eaeb,BG13.jpg
+Aqua,https://copic.jp/en/color/bg15/,BG15,#39ac8f,#b5ddd6,BG15.jpg
+Teal Blue,https://copic.jp/en/color/bg18/,BG18,#41847b,#56beb3,BG18.jpg
+Coral Sea,https://copic.jp/en/color/bg23/,BG23,#89e2c5,#cde7e0,BG23.jpg
+Aqua Mint,https://copic.jp/en/color/bg32/,BG32,#95e8cd,#cce6db,BG32.jpg
+Horizon Green,https://copic.jp/en/color/bg34/,BG34,#8ae1b8,#b8dedb,BG34.jpg
+Nile Blue,https://copic.jp/en/color/bg45/,BG45,#68cbc3,#c1e2e3,BG45.jpg
+Duck Blue,https://copic.jp/en/color/bg49/,BG49,#0c8174,#15b2bc,BG49.jpg
+Ice Mint,https://copic.jp/en/color/bg53/,BG53,#8ad7db,#5cb6bd,BG53.jpg
+Jasper,https://copic.jp/en/color/bg57/,BG57,#59acaf,#04a2ad,BG57.jpg
+Ocean Mist,https://copic.jp/en/color/bg70/,BG70,#e9efef,#e5eee3,BG70.jpg
+Ice Ocean,https://copic.jp/en/color/bg72/,BG72,#9bc2c4,#88bec1,BG72.jpg
+Abyss Green,https://copic.jp/en/color/bg75/,BG75,#4c777a,#b5ddd6,BG75.jpg
+Bronze,https://copic.jp/en/color/bg78/,BG78,#3c6b6e,#48756b,BG78.jpg
+Gray Sky,https://copic.jp/en/color/bg90/,BG90,#dfe2d2,#d1ccb8,BG90.jpg
+Green Gray,https://copic.jp/en/color/bg93/,BG93,#a6aa88,#cbcec4,BG93.jpg
+Bush,https://copic.jp/en/color/bg96/,BG96,#636d50,#9ab09e,BG96.jpg
+Flagstone Blue,https://copic.jp/en/color/bg99/,BG99,#626242,#89a996,BG99.jpg
+Mauve Shadow,https://copic.jp/en/color/bv00/,BV00,#dfc4e9,#e9e3f0,BV00.jpg
+Iridescent Mauve,https://copic.jp/en/color/bv000/,BV000,#e9d2f0,#eee7f1,BV000.jpg
+Pale Thistle,https://copic.jp/en/color/bv0000/,BV0000,#eee8f2,#eeecf5,BV0000.jpg
+Viola,https://copic.jp/en/color/bv01/,BV01,#b8afe5,#c8c4df,BV01.jpg
+Prune,https://copic.jp/en/color/bv02/,BV02,#a199e2,#bec4df,BV02.jpg
+Blue Berry,https://copic.jp/en/color/bv04/,BV04,#4f5aa8,#92a4ce,BV04.jpg
+Blue Violet,https://copic.jp/en/color/bv08/,BV08,#433470,#b08cb9,BV08.jpg
+Soft Violet,https://copic.jp/en/color/bv11/,BV11,#b6a4d3,#e0dcec,BV11.jpg
+Hydrangea Blue,https://copic.jp/en/color/bv13/,BV13,#7c82d3,#989ec9,BV13.jpg
+Deep Reddish Blue,https://copic.jp/en/color/bv17/,BV17,#4b458b,#7e90bd,BV17.jpg
+Dull Lavender,https://copic.jp/en/color/bv20/,BV20,#b8bbd4,#dce3f2,BV20.jpg
+Grayish Lavender,https://copic.jp/en/color/bv23/,BV23,#868397,#c4cde1,BV23.jpg
+Grayish Violet,https://copic.jp/en/color/bv25/,BV25,#676476,#908fac,BV25.jpg
+Slate,https://copic.jp/en/color/bv29/,BV29,#22212d,#2e4256,BV29.jpg
+Pale Lavender,https://copic.jp/en/color/bv31/,BV31,#cecae7,#e6e8f4,BV31.jpg
+Bluebell,https://copic.jp/en/color/bv34/,BV34,#8487b5,#7f92bd,BV34.jpg
+Cool Gray No.0,https://copic.jp/en/color/c-0/,C-0,#f2f6fb,#edf2f4,C-0.jpg
+Cool Gray No.00,https://copic.jp/en/color/c-00/,C-00,#fbfcfe,#f1f4f6,C-00.jpg
+Cool Gray No.1,https://copic.jp/en/color/c-1/,C-1,#e4ebf3,#e4eaed,C-1.jpg
+Cool Gray No.10,https://copic.jp/en/color/c-10/,C-10,#25222c,#1f1e1e,C-10.jpg
+Cool Gray No.2,https://copic.jp/en/color/c-2/,C-2,#d4dfe7,#d9e0e4,C-2.jpg
+Cool Gray No.3,https://copic.jp/en/color/c-3/,C-3,#b6c1cd,#d0d5da,C-3.jpg
+Cool Gray No.4,https://copic.jp/en/color/c-4/,C-4,#99a4b1,#b9c1c7,C-4.jpg
+Cool Gray No.5,https://copic.jp/en/color/c-5/,C-5,#828d98,#a4aeb2,C-5.jpg
+Cool Gray No.6,https://copic.jp/en/color/c-6/,C-6,#656e7a,#939ba1,C-6.jpg
+Cool Gray No.7,https://copic.jp/en/color/c-7/,C-7,#4c555f,#777f83,C-7.jpg
+Cool Gray No.8,https://copic.jp/en/color/c-8/,C-8,#363c44,#63696d,C-8.jpg
+Cool Gray No.9,https://copic.jp/en/color/c-9/,C-9,#2e2c37,#535150,C-9.jpg
+Cotton Pearl,https://copic.jp/en/color/e00/,E00,#fee8ca,#fff6ee,E00.jpg
+Pale Fruit Pink,https://copic.jp/en/color/e000/,E000,#fef3df,#fff8f1,E000.jpg
+Floral White,https://copic.jp/en/color/e0000/,E0000,#fdf8ef,#fffaf3,E0000.jpg
+Pink Flamingo,https://copic.jp/en/color/e01/,E01,#fedbbc,#fff2e9,E01.jpg
+Fruit Pink,https://copic.jp/en/color/e02/,E02,#fec59f,#fff1e6,E02.jpg
+Lipstick Rose,https://copic.jp/en/color/e04/,E04,#a37072,#eccace,E04.jpg
+Light Mahogany,https://copic.jp/en/color/e07/,E07,#933e3a,#d99278,E07.jpg
+Brown,https://copic.jp/en/color/e08/,E08,#a8482a,#d5745c,E08.jpg
+Burnt Sienna,https://copic.jp/en/color/e09/,E09,#954021,#e27453,E09.jpg
+Barley Beige,https://copic.jp/en/color/e11/,E11,#e1bc9e,#ffefde,E11.jpg
+Desert Sand,https://copic.jp/en/color/e13/,E13,#d39b71,#efd2bb,E13.jpg
+Earthenware,https://copic.jp/en/color/e15/,E15,#ae6d43,#fdc797,E15.jpg
+Reddish Brass,https://copic.jp/en/color/e17/,E17,#994f34,#c46755,E17.jpg
+Copper,https://copic.jp/en/color/e18/,E18,#672d1f,#97564a,E18.jpg
+Redwood,https://copic.jp/en/color/e19/,E19,#843419,#ce5425,E19.jpg
+Soft Sun,https://copic.jp/en/color/e21/,E21,#fed4a3,#ffe9d2,E21.jpg
+Hazelnut,https://copic.jp/en/color/e23/,E23,#bf7b54,#aa6a4b,E23.jpg
+Caribe Cocoa,https://copic.jp/en/color/e25/,E25,#a76850,#dfb693,E25.jpg
+Milk Chocolate,https://copic.jp/en/color/e27/,E27,#92543d,#ac866d,E27.jpg
+Burnt Umber,https://copic.jp/en/color/e29/,E29,#783222,#903f0a,E29.jpg
+Bisque,https://copic.jp/en/color/e30/,E30,#fee9c0,#f7efcf,E30.jpg
+Brick Beige,https://copic.jp/en/color/e31/,E31,#f0cc99,#f6ecd7,E31.jpg
+Sand,https://copic.jp/en/color/e33/,E33,#e29b6a,#f6dcbd,E33.jpg
+Toast,https://copic.jp/en/color/e34/,E34,#df9e6c,#f5d7b3,E34.jpg
+Chamois,https://copic.jp/en/color/e35/,E35,#cc8b52,#eed2b2,E35.jpg
+Sepia,https://copic.jp/en/color/e37/,E37,#89501e,#d9a566,E37.jpg
+Leather,https://copic.jp/en/color/e39/,E39,#955116,#d27d33,E39.jpg
+Brick White,https://copic.jp/en/color/e40/,E40,#f3e8d8,#f7f0e5,E40.jpg
+Pearl White,https://copic.jp/en/color/e41/,E41,#f9e3be,#fff4e8,E41.jpg
+Sand White,https://copic.jp/en/color/e42/,E42,#ecd1ad,#f2e8d3,E42.jpg
+Dull Ivory,https://copic.jp/en/color/e43/,E43,#c2a178,#f0e6cb,E43.jpg
+Clay,https://copic.jp/en/color/e44/,E44,#936f4d,#d4c9b6,E44.jpg
+Dark Brown,https://copic.jp/en/color/e47/,E47,#734b37,#9a826c,E47.jpg
+Dark Bark,https://copic.jp/en/color/e49/,E49,#3d281e,#7a5d45,E49.jpg
+Egg Shell,https://copic.jp/en/color/e50/,E50,#fef2cf,#f7f0f1,E50.jpg
+Milky White,https://copic.jp/en/color/e51/,E51,#feebbe,#fff1de,E51.jpg
+Raw Silk,https://copic.jp/en/color/e53/,E53,#f9c692,#f6eccc,E53.jpg
+Light Camel,https://copic.jp/en/color/e55/,E55,#d2a56b,#f5e6c4,E55.jpg
+Light Walnut,https://copic.jp/en/color/e57/,E57,#7e5430,#c29a6a,E57.jpg
+Walnut,https://copic.jp/en/color/e59/,E59,#5e3f22,#ad9076,E59.jpg
+Ash Rose,https://copic.jp/en/color/e70/,E70,#ddc6bf,#f1e9e2,E70.jpg
+Champagne,https://copic.jp/en/color/e71/,E71,#b3928c,#ebe1da,E71.jpg
+Cocoa Brown,https://copic.jp/en/color/e74/,E74,#906d67,#b5998c,E74.jpg
+Maroon,https://copic.jp/en/color/e77/,E77,#66413b,#947157,E77.jpg
+Cashew,https://copic.jp/en/color/e79/,E79,#4c2f29,#52382d,E79.jpg
+Ivory,https://copic.jp/en/color/e81/,E81,#e8e0b9,#dccd98,E81.jpg
+Khaki,https://copic.jp/en/color/e84/,E84,#b19b61,#b4955f,E84.jpg
+Fig,https://copic.jp/en/color/e87/,E87,#68562b,#5b4d38,E87.jpg
+Pecan,https://copic.jp/en/color/e89/,E89,#4c3c1e,#7b746a,E89.jpg
+Tea Rose,https://copic.jp/en/color/e93/,E93,#febda4,#fedbc2,E93.jpg
+Tea Orange,https://copic.jp/en/color/e95/,E95,#fec196,#fec788,E95.jpg
+Deep Orange,https://copic.jp/en/color/e97/,E97,#fc9462,#f3a962,E97.jpg
+Baked Clay,https://copic.jp/en/color/e99/,E99,#a76226,#c06508,E99.jpg
+Fluorescent Blue,https://copic.jp/en/color/fb/,FB,#4480f9,#0b93cd,FB.jpg
+Fluorescent Blue Green,https://copic.jp/en/color/fbg/,FBG,#6ccaea,#80cde7,FBG.jpg
+Fluorescent Green,https://copic.jp/en/color/fg/,FG,#60bb49,#afce15,FG.jpg
+Fluorescent Pink,https://copic.jp/en/color/frv/,FRV,#fe8ed4,#f9b0cb,FRV.jpg
+Fluorescent Violet,https://copic.jp/en/color/fv/,FV,#734be0,#917fb3,FV.jpg
+Fluorescent Yellow,https://copic.jp/en/color/fy/,FY,#fee27f,#fff9a0,FY.jpg
+Fluorescent Yellow Green,https://copic.jp/en/color/fyg/,FYG,#f2fe84,#dce4aa,FYG.jpg
+Fluorescent Orange,https://copic.jp/en/color/fyr/,FYR,#fec378,#ffd7a4,FYR.jpg
+Jade Green,https://copic.jp/en/color/g00/,G00,#cbfae1,#eaf5f6,G00.jpg
+Pale Green,https://copic.jp/en/color/g000/,G000,#e3feed,#f7fbf7,G000.jpg
+Crystal Opal,https://copic.jp/en/color/g0000/,G0000,#f0fef8,#f6faf6,G0000.jpg
+Spectrum Green,https://copic.jp/en/color/g02/,G02,#85dd90,#dbecd9,G02.jpg
+Meadow Green,https://copic.jp/en/color/g03/,G03,#73d47c,#b0de7f,G03.jpg
+Emerald Green,https://copic.jp/en/color/g05/,G05,#41ac4d,#7dc079,G05.jpg
+Nile Green,https://copic.jp/en/color/g07/,G07,#3f9439,#8fc676,G07.jpg
+Veronese Green,https://copic.jp/en/color/g09/,G09,#3ba54e,#8fc460,G09.jpg
+Sea Green,https://copic.jp/en/color/g12/,G12,#c0e2aa,#deeccb,G12.jpg
+Apple Green,https://copic.jp/en/color/g14/,G14,#6cc157,#aad294,G14.jpg
+Malachite,https://copic.jp/en/color/g16/,G16,#298f57,#76c19c,G16.jpg
+Forest Green,https://copic.jp/en/color/g17/,G17,#379352,#27ae7d,G17.jpg
+Bright Parrot Green,https://copic.jp/en/color/g19/,G19,#268d47,#49b68a,G19.jpg
+Wax White,https://copic.jp/en/color/g20/,G20,#f5fbc4,#f2f7e0,G20.jpg
+Lime Green,https://copic.jp/en/color/g21/,G21,#b4d192,#d3e8d3,G21.jpg
+Willow,https://copic.jp/en/color/g24/,G24,#98bd79,#d1e4bb,G24.jpg
+Ocean Green,https://copic.jp/en/color/g28/,G28,#2f673d,#239665,G28.jpg
+Pine Tree Green,https://copic.jp/en/color/g29/,G29,#235938,#3e8667,G29.jpg
+Dim Green,https://copic.jp/en/color/g40/,G40,#e3f8c2,#ecf4e3,G40.jpg
+Pistachio,https://copic.jp/en/color/g43/,G43,#abcc79,#92b35c,G43.jpg
+Mistletoe,https://copic.jp/en/color/g46/,G46,#5b8855,#54895d,G46.jpg
+Spring Dim Green,https://copic.jp/en/color/g82/,G82,#a9c476,#dbe2c4,G82.jpg
+Verdigris,https://copic.jp/en/color/g85/,G85,#7b8256,#b3cdb5,G85.jpg
+Grayish Olive,https://copic.jp/en/color/g94/,G94,#819760,#aab38e,G94.jpg
+Olive,https://copic.jp/en/color/g99/,G99,#575f24,#7b8e3f,G99.jpg
+Neutral Gray No.0,https://copic.jp/en/color/n-0/,N-0,#eaedee,#f2f2f2,N-0.jpg
+Neutral Gray No.1,https://copic.jp/en/color/n-1/,N-1,#dedede,#ebebeb,N-1.jpg
+Neutral Gray No.10,https://copic.jp/en/color/n-10/,N-10,#1b1c1d,#1f1e1e,N-10.jpg
+Neutral Gray No.2,https://copic.jp/en/color/n-2/,N-2,#b1b5bb,#e3e3e3,N-2.jpg
+Neutral Gray No.3,https://copic.jp/en/color/n-3/,N-3,#9b9fa6,#dcdcdc,N-3.jpg
+Neutral Gray No.4,https://copic.jp/en/color/n-4/,N-4,#7d8289,#c9c9c9,N-4.jpg
+Neutral Gray No.5,https://copic.jp/en/color/n-5/,N-5,#65686b,#b7b6b6,N-5.jpg
+Neutral Gray No.6,https://copic.jp/en/color/n-6/,N-6,#484b52,#a4a4a4,N-6.jpg
+Neutral Gray No.7,https://copic.jp/en/color/n-7/,N-7,#2c3136,#858485,N-7.jpg
+Neutral Gray No.8,https://copic.jp/en/color/n-8/,N-8,#2b2c30,#6f6e6e,N-8.jpg
+Neutral Gray No.9,https://copic.jp/en/color/n-9/,N-9,#232524,#535150,N-9.jpg
+Pinkish White,https://copic.jp/en/color/r00/,R00,#fbe2d2,#fff5ef,R00.jpg
+Cherry White,https://copic.jp/en/color/r000/,R000,#fef7e9,#fff6f2,R000.jpg
+Pink Beryl,https://copic.jp/en/color/r0000/,R0000,#fdfbf2,#fcf6f2,R0000.jpg
+Pinkish Vanilla,https://copic.jp/en/color/r01/,R01,#fee0c8,#fde0da,R01.jpg
+Rose Salmon,https://copic.jp/en/color/r02/,R02,#feba92,#fedcd0,R02.jpg
+Salmon Red,https://copic.jp/en/color/r05/,R05,#f74929,#f89d85,R05.jpg
+Vermilion,https://copic.jp/en/color/r08/,R08,#bc3828,#f46d56,R08.jpg
+Pale Cherry Pink,https://copic.jp/en/color/r11/,R11,#fed2be,#ffe8dd,R11.jpg
+Light Tea Rose,https://copic.jp/en/color/r12/,R12,#fecba6,#fedccb,R12.jpg
+Light Rouge,https://copic.jp/en/color/r14/,R14,#fe6a5e,#f9a89d,R14.jpg
+Lipstick Orange,https://copic.jp/en/color/r17/,R17,#cc423a,#f78f72,R17.jpg
+Blush,https://copic.jp/en/color/r20/,R20,#fec9b9,#fee0d9,R20.jpg
+Sardonyx,https://copic.jp/en/color/r21/,R21,#febaa8,#fcb6ac,R21.jpg
+Light Prawn,https://copic.jp/en/color/r22/,R22,#fe857b,#ff9999,R22.jpg
+Prawn,https://copic.jp/en/color/r24/,R24,#dd4a48,#f57f82,R24.jpg
+Cadmium Red,https://copic.jp/en/color/r27/,R27,#a3131a,#f25364,R27.jpg
+Lipstick Red,https://copic.jp/en/color/r29/,R29,#9c0917,#ef0047,R29.jpg
+Pale Yellowish Pink,https://copic.jp/en/color/r30/,R30,#fedbc4,#feeae5,R30.jpg
+Peach,https://copic.jp/en/color/r32/,R32,#fe9f97,#fcccc4,R32.jpg
+Coral,https://copic.jp/en/color/r35/,R35,#fd4d5f,#f57a8a,R35.jpg
+Carmine,https://copic.jp/en/color/r37/,R37,#b0253e,#ed787d,R37.jpg
+Garnet,https://copic.jp/en/color/r39/,R39,#a32342,#d65382,R39.jpg
+Bougainvillaea,https://copic.jp/en/color/r43/,R43,#fd7185,#f18f96,R43.jpg
+Strong Red,https://copic.jp/en/color/r46/,R46,#df2c4c,#e6506d,R46.jpg
+Currant,https://copic.jp/en/color/r56/,R56,#b05264,#c36679,R56.jpg
+Cardinal,https://copic.jp/en/color/r59/,R59,#871b2b,#c55f7c,R59.jpg
+Rose Pink,https://copic.jp/en/color/r81/,R81,#fbc2d7,#f6d4dc,R81.jpg
+Rose Mist,https://copic.jp/en/color/r83/,R83,#f095b2,#f5aabf,R83.jpg
+Rose Red,https://copic.jp/en/color/r85/,R85,#e16c8c,#de769a,R85.jpg
+Dark Red,https://copic.jp/en/color/r89/,R89,#7c1623,#91354d,R89.jpg
+Water Lily,https://copic.jp/en/color/rv00/,RV00,#fee4e7,#f3d3e9,RV00.jpg
+Pale Purple,https://copic.jp/en/color/rv000/,RV000,#feeff3,#f7e9f1,RV000.jpg
+Evening Primrose,https://copic.jp/en/color/rv0000/,RV0000,#fcf4f5,#f7e9f1,RV0000.jpg
+Sugared Almond Pink,https://copic.jp/en/color/rv02/,RV02,#fec8e2,#fcdee9,RV02.jpg
+Shock Pink,https://copic.jp/en/color/rv04/,RV04,#fd50a5,#f9b0c5,RV04.jpg
+Cerise,https://copic.jp/en/color/rv06/,RV06,#fd3ec9,#f692b3,RV06.jpg
+Fuchsia,https://copic.jp/en/color/rv09/,RV09,#b7286d,#e87cac,RV09.jpg
+Pale Pink,https://copic.jp/en/color/rv10/,RV10,#fdd7e1,#fef1f5,RV10.jpg
+Pink,https://copic.jp/en/color/rv11/,RV11,#dfb0bb,#fcdfe3,RV11.jpg
+Tender Pink,https://copic.jp/en/color/rv13/,RV13,#fe83ac,#fcd3de,RV13.jpg
+Begonia Pink,https://copic.jp/en/color/rv14/,RV14,#fc3f71,#f8a0bc,RV14.jpg
+Deep Magenta,https://copic.jp/en/color/rv17/,RV17,#c82a76,#e58bb5,RV17.jpg
+Red Violet,https://copic.jp/en/color/rv19/,RV19,#891c48,#de73a7,RV19.jpg
+Light Pink,https://copic.jp/en/color/rv21/,RV21,#febbc2,#feeeed,RV21.jpg
+Pure Pink,https://copic.jp/en/color/rv23/,RV23,#fea0bd,#fbc6cf,RV23.jpg
+Dog Rose Flower,https://copic.jp/en/color/rv25/,RV25,#bf41b7,#f8a1c1,RV25.jpg
+Crimson,https://copic.jp/en/color/rv29/,RV29,#9d112b,#f14a81,RV29.jpg
+Shadow Pink,https://copic.jp/en/color/rv32/,RV32,#fbb4bf,#fddcd7,RV32.jpg
+Dark Pink,https://copic.jp/en/color/rv34/,RV34,#f286ad,#fbbcb8,RV34.jpg
+Salmon Pink,https://copic.jp/en/color/rv42/,RV42,#feb9a8,#fbc7bf,RV42.jpg
+Cotton Candy,https://copic.jp/en/color/rv52/,RV52,#dbb8d5,#dc9cb6,RV52.jpg
+Hollyhock,https://copic.jp/en/color/rv55/,RV55,#cc78ab,#d96196,RV55.jpg
+Begonia,https://copic.jp/en/color/rv63/,RV63,#cd9cc1,#db8ab5,RV63.jpg
+Raspberry,https://copic.jp/en/color/rv66/,RV66,#8c4477,#8d3765,RV66.jpg
+Peony,https://copic.jp/en/color/rv69/,RV69,#550e2a,#9c6276,RV69.jpg
+Grayish Cherry,https://copic.jp/en/color/rv91/,RV91,#f4e1ec,#eddee8,RV91.jpg
+Smoky Purple,https://copic.jp/en/color/rv93/,RV93,#deb5c6,#eec3d2,RV93.jpg
+Baby Blossoms,https://copic.jp/en/color/rv95/,RV95,#bd8da2,#c694aa,RV95.jpg
+Argyle Purple,https://copic.jp/en/color/rv99/,RV99,#391a26,#6e5764,RV99.jpg
+Toner Gray No.0,https://copic.jp/en/color/t-0/,T-0,#e3e4e2,#f2f2f2,T-0.jpg
+Toner Gray No.1,https://copic.jp/en/color/t-1/,T-1,#cfcfcd,#f0f0ee,T-1.jpg
+Toner Gray No.10,https://copic.jp/en/color/t-10/,T-10,#232124,#1f1e1e,T-10.jpg
+Toner Gray No.2,https://copic.jp/en/color/t-2/,T-2,#b9b9b6,#e9e9e6,T-2.jpg
+Toner Gray No.3,https://copic.jp/en/color/t-3/,T-3,#a1a2a0,#dddcd7,T-3.jpg
+Toner Gray No.4,https://copic.jp/en/color/t-4/,T-4,#80817e,#cac8c4,T-4.jpg
+Toner Gray No.5,https://copic.jp/en/color/t-5/,T-5,#6a6f69,#b8b5b0,T-5.jpg
+Toner Gray No.6,https://copic.jp/en/color/t-6/,T-6,#505754,#a4a29e,T-6.jpg
+Toner Gray No.7,https://copic.jp/en/color/t-7/,T-7,#39413e,#858380,T-7.jpg
+Toner Gray No.8,https://copic.jp/en/color/t-8/,T-8,#2c3532,#6f6d6a,T-8.jpg
+Toner Gray No.9,https://copic.jp/en/color/t-9/,T-9,#2a2c2e,#53504d,T-9.jpg
+Pale Heath,https://copic.jp/en/color/v000/,V000,#fee3f6,#f7f2f7,V000.jpg
+Rose Quartz,https://copic.jp/en/color/v0000/,V0000,#fef4fb,#f3f1f8,V0000.jpg
+Heath,https://copic.jp/en/color/v01/,V01,#f4acdf,#edccde,V01.jpg
+Lilac,https://copic.jp/en/color/v04/,V04,#e670f5,#edb9d1,V04.jpg
+Azalea,https://copic.jp/en/color/v05/,V05,#de6ebd,#ecb4ce,V05.jpg
+Lavender,https://copic.jp/en/color/v06/,V06,#b44ea2,#dba5c6,V06.jpg
+Violet,https://copic.jp/en/color/v09/,V09,#401a76,#97599a,V09.jpg
+Pale Lilac,https://copic.jp/en/color/v12/,V12,#eaa8e3,#f2dfeb,V12.jpg
+Mallow,https://copic.jp/en/color/v15/,V15,#b979c4,#e0b6d1,V15.jpg
+Amethyst,https://copic.jp/en/color/v17/,V17,#543976,#b3a1c7,V17.jpg
+Wisteria,https://copic.jp/en/color/v20/,V20,#d9d4e0,#d5ccd6,V20.jpg
+Ash Lavender,https://copic.jp/en/color/v22/,V22,#b8b2c6,#7b6f90,V22.jpg
+Pale Blackberry,https://copic.jp/en/color/v25/,V25,#8c8197,#b6aec6,V25.jpg
+Eggplant,https://copic.jp/en/color/v28/,V28,#605e68,#787aa0,V28.jpg
+Pale Grape,https://copic.jp/en/color/v91/,V91,#e3d0db,#efd0d8,V91.jpg
+Early Grape,https://copic.jp/en/color/v93/,V93,#d3bfcc,#edcddf,V93.jpg
+Light Grape,https://copic.jp/en/color/v95/,V95,#af8fa2,#c589aa,V95.jpg
+Aubergine,https://copic.jp/en/color/v99/,V99,#4a3745,#4f334d,V99.jpg
+Warm Gray No.0,https://copic.jp/en/color/w-0/,W-0,#efeae1,#f7f6f0,W-0.jpg
+Warm Gray No.00,https://copic.jp/en/color/w-00/,W-00,#f1f0eb,#f7f7f1,W-00.jpg
+Warm Gray No.1,https://copic.jp/en/color/w-1/,W-1,#e3ddd3,#eeede7,W-1.jpg
+Warm Gray No.10,https://copic.jp/en/color/w-10/,W-10,#332f29,#1f1e1d,W-10.jpg
+Warm Gray No.2,https://copic.jp/en/color/w-2/,W-2,#d3cabe,#eeede9,W-2.jpg
+Warm Gray No.3,https://copic.jp/en/color/w-3/,W-3,#bfb4a5,#dddcd5,W-3.jpg
+Warm Gray No.4,https://copic.jp/en/color/w-4/,W-4,#aa9f91,#cac9c2,W-4.jpg
+Warm Gray No.5,https://copic.jp/en/color/w-5/,W-5,#908274,#b8b6b0,W-5.jpg
+Warm Gray No.6,https://copic.jp/en/color/w-6/,W-6,#796d5f,#a4a39c,W-6.jpg
+Warm Gray No.7,https://copic.jp/en/color/w-7/,W-7,#4d4539,#86847f,W-7.jpg
+Warm Gray No.8,https://copic.jp/en/color/w-8/,W-8,#443d34,#6f6e69,W-8.jpg
+Warm Gray No.9,https://copic.jp/en/color/w-9/,W-9,#363129,#53504c,W-9.jpg
+Barium Yellow,https://copic.jp/en/color/y00/,Y00,#fffeaf,#fffee5,Y00.jpg
+Pale Lemon,https://copic.jp/en/color/y000/,Y000,#fefed8,#fffff6,Y000.jpg
+Yellow Fluorite,https://copic.jp/en/color/sketch/y0000/,Y0000,#fefee1,#fffef7,Y0000.jpg
+Canary Yellow,https://copic.jp/en/color/y02/,Y02,#fefa65,#f9f5a0,Y02.jpg
+Acacia,https://copic.jp/en/color/y04/,Y04,#fefd5b,#f3e953,Y04.jpg
+Yellow,https://copic.jp/en/color/y06/,Y06,#fffe38,#fff772,Y06.jpg
+Acid Yellow,https://copic.jp/en/color/y08/,Y08,#fede31,#fff500,Y08.jpg
+Pale Yellow,https://copic.jp/en/color/y11/,Y11,#feed84,#fffcd3,Y11.jpg
+Lemon Yellow,https://copic.jp/en/color/y13/,Y13,#fee667,#fcf9b7,Y13.jpg
+Cadmium Yellow,https://copic.jp/en/color/y15/,Y15,#fcce33,#ffee72,Y15.jpg
+Golden Yellow,https://copic.jp/en/color/y17/,Y17,#feaa23,#ffea55,Y17.jpg
+Lightning Yellow,https://copic.jp/en/color/y18/,Y18,#fec116,#fff257,Y18.jpg
+Napoli Yellow,https://copic.jp/en/color/y19/,Y19,#feb10a,#ffee39,Y19.jpg
+Buttercup Yellow,https://copic.jp/en/color/y21/,Y21,#faca6e,#fff2c9,Y21.jpg
+Yellowish Beige,https://copic.jp/en/color/y23/,Y23,#fbcd7e,#fdeabe,Y23.jpg
+Mustard,https://copic.jp/en/color/y26/,Y26,#bd891c,#f6e56f,Y26.jpg
+Lionet Gold,https://copic.jp/en/color/y28/,Y28,#bfa264,#d5b56e,Y28.jpg
+Cashmere,https://copic.jp/en/color/y32/,Y32,#fed995,#fbe6ca,Y32.jpg
+Maize,https://copic.jp/en/color/y35/,Y35,#febd49,#ffe081,Y35.jpg
+Honey,https://copic.jp/en/color/y38/,Y38,#fe9c1f,#ffff99,Y38.jpg
+Mimosa Yellow,https://copic.jp/en/color/yg00/,YG00,#e0e37d,#eeeba6,YG00.jpg
+Lily White,https://copic.jp/en/color/yg0000/,YG0000,#f2f2c0,#f7f9e4,YG0000.jpg
+Green Bice,https://copic.jp/en/color/classic/yg01/,YG01,#cde75f,#eef2c8,YG01.jpg
+Yellow Green,https://copic.jp/en/color/ciao/yg03/,YG03,#a5c354,#eaeeb2,YG03.jpg
+Salad,https://copic.jp/en/color/classic/yg05/,YG05,#9eeb4b,#e2e999,YG05.jpg
+Yellowish Green,https://copic.jp/en/color/ciao/yg06/,YG06,#97ea5b,#d3e398,YG06.jpg
+Acid Green,https://copic.jp/en/color/classic/yg07/,YG07,#6ec53d,#b6d135,YG07.jpg
+Lettuce Green,https://copic.jp/en/color/ciao/yg09/,YG09,#4ab139,#93c560,YG09.jpg
+Mignonette,https://copic.jp/en/color/ciao/yg11/,YG11,#d7faa6,#ecf3d5,YG11.jpg
+Chartreuse,https://copic.jp/en/color/classic/yg13/,YG13,#b1d453,#dfe9a6,YG13.jpg
+Grass Green,https://copic.jp/en/color/yg17/,YG17,#72a13b,#85bf4a,YG17.jpg
+Anise,https://copic.jp/en/color/yg21/,YG21,#fcfc7a,#f9f8c6,YG21.jpg
+New Leaf,https://copic.jp/en/color/yg23/,YG23,#bdd74f,#efef98,YG23.jpg
+Celadon Green,https://copic.jp/en/color/yg25/,YG25,#9fd042,#dce47f,YG25.jpg
+Pale Cobalt Green,https://copic.jp/en/color/yg41/,YG41,#bef5ac,#e1eed9,YG41.jpg
+Cobalt Green,https://copic.jp/en/color/yg45/,YG45,#77a96d,#c5e0be,YG45.jpg
+Pale Moss,https://copic.jp/en/color/yg61/,YG61,#c1d29e,#b7ca90,YG61.jpg
+Pea Green,https://copic.jp/en/color/yg63/,YG63,#99b16f,#b5d2ab,YG63.jpg
+Moss,https://copic.jp/en/color/yg67/,YG67,#4e7033,#97c592,YG67.jpg
+Putty,https://copic.jp/en/color/yg91/,YG91,#ded0a1,#e4dfb8,YG91.jpg
+Grayish Yellow,https://copic.jp/en/color/yg93/,YG93,#b8b770,#dedba6,YG93.jpg
+Pale Olive,https://copic.jp/en/color/yg95/,YG95,#a29835,#dbd267,YG95.jpg
+Spanish Olive,https://copic.jp/en/color/yg97/,YG97,#6d6a1f,#aaa000,YG97.jpg
+Marine Green,https://copic.jp/en/color/yg99/,YG99,#4f4d1a,#6a7800,YG99.jpg
+Powder Pink,https://copic.jp/en/color/yr00/,YR00,#fed7a7,#fedfc7,YR00.jpg
+Silk,https://copic.jp/en/color/yr000/,YR000,#fee5cb,#fff1e1,YR000.jpg
+Pale Chiffon,https://copic.jp/en/color/yr0000/,YR0000,#f8ecde,#fcf6eb,YR0000.jpg
+Peach Puff,https://copic.jp/en/color/yr01/,YR01,#fed09c,#fdd6b7,YR01.jpg
+Light Orange,https://copic.jp/en/color/yr02/,YR02,#fea462,#ffe4cf,YR02.jpg
+Chrome Orange,https://copic.jp/en/color/yr04/,YR04,#fea132,#ffcf6d,YR04.jpg
+Cadmium Orange,https://copic.jp/en/color/yr07/,YR07,#fe7327,#f67833,YR07.jpg
+Chinese Orange,https://copic.jp/en/color/yr09/,YR09,#c1492c,#f35700,YR09.jpg
+Loquat,https://copic.jp/en/color/yr12/,YR12,#feb358,#fee391,YR12.jpg
+Caramel,https://copic.jp/en/color/yr14/,YR14,#fd9938,#ffd34c,YR14.jpg
+Pumpkin Yellow,https://copic.jp/en/color/yr15/,YR15,#fea435,#ffd198,YR15.jpg
+Apricot,https://copic.jp/en/color/yr16/,YR16,#fe9323,#ffc417,YR16.jpg
+Sanguine,https://copic.jp/en/color/classic/yr18/,YR18,#cc5322,#f57335,YR18.jpg
+Yellowish Shade,https://copic.jp/en/color/yr20/,YR20,#fee3a5,#ffe9c9,YR20.jpg
+Cream,https://copic.jp/en/color/yr21/,YR21,#fed16e,#f8e5bb,YR21.jpg
+Yellow Ochre,https://copic.jp/en/color/yr23/,YR23,#eca739,#f2db98,YR23.jpg
+Pale Sepia,https://copic.jp/en/color/yr24/,YR24,#f09f28,#f6dc6b,YR24.jpg
+Tuscan Orange,https://copic.jp/en/color/yr27/,YR27,#ac6214,#d86745,YR27.jpg
+Macadamia Nut,https://copic.jp/en/color/yr30/,YR30,#fefbdf,#f7edc9,YR30.jpg
+Light Reddish Yellow,https://copic.jp/en/color/yr31/,YR31,#fedd7d,#ffe6b2,YR31.jpg
+Spring Orange,https://copic.jp/en/color/yr61/,YR61,#fec194,#fee2cc,YR61.jpg
+Atoll,https://copic.jp/en/color/yr65/,YR65,#feaa67,#febb65,YR65.jpg
+Orange,https://copic.jp/en/color/yr68/,YR68,#fd6e20,#f67700,YR68.jpg
+Mellow Peach,https://copic.jp/en/color/yr82/,YR82,#fed3a3,#ffd198,YR82.jpg

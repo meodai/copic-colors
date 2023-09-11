@@ -1,0 +1,25 @@
+{
+  "name": "copic-colors",
+  "version": "1.0.0",
+  "description": "Up to date list of copic colors",
+  "main": "colors.json",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/copic-colors.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/copic-colors/issues"
+  },
+  "homepage": "https://github.com/meodai/copic-colors#readme",
+  "devDependencies": {
+    "@andreekeberg/imagedata": "^1.0.2",
+    "puppeteer": "^21.1.1",
+    "title-case": "^3.0.3"
+  }
+}
