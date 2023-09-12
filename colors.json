@@ -6,7 +6,8 @@
     "imgURL": "https://copic.jp/images/color/color_0.jpg",
     "extractedColor": "#ffffff",
     "fileName": "0.jpg",
-    "hex": "#ffffff"
+    "hex": "#ffffff",
+    "family": "A"
   },
   {
     "name": "Black",
@@ -15,7 +16,8 @@
     "imgURL": "https://copic.jp/images/color/color_100.jpg",
     "extractedColor": "#1e1d22",
     "fileName": "100.jpg",
-    "hex": "#000000"
+    "hex": "#000000",
+    "family": "A"
   },
   {
     "name": "Special Black",
@@ -24,7 +26,8 @@
     "imgURL": "https://copic.jp/images/color/color_110.jpg",
     "extractedColor": "#201b1d",
     "fileName": "110.jpg",
-    "hex": "#000000"
+    "hex": "#000000",
+    "family": "A"
   },
   {
     "name": "Frost Blue",
@@ -33,7 +36,10 @@
     "imgURL": "https://copic.jp/images/color/color_B00.jpg",
     "extractedColor": "#c4fafe",
     "fileName": "B00.jpg",
-    "hex": "#eaf6f9"
+    "hex": "#eaf6f9",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Pale Porcelain Blue",
@@ -42,7 +48,10 @@
     "imgURL": "https://copic.jp/images/color/color_B000.jpg",
     "extractedColor": "#defefe",
     "fileName": "B000.jpg",
-    "hex": "#edf6f6"
+    "hex": "#edf6f6",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Pale Celestine",
@@ -51,7 +60,10 @@
     "imgURL": "https://copic.jp/images/color/color_B0000.jpg",
     "extractedColor": "#eefefe",
     "fileName": "B0000.jpg",
-    "hex": "#f6fbfe"
+    "hex": "#f6fbfe",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Mint Blue",
@@ -60,7 +72,10 @@
     "imgURL": "https://copic.jp/images/color/color_B01.jpg",
     "extractedColor": "#a5f0fc",
     "fileName": "B01.jpg",
-    "hex": "#e1f1f3"
+    "hex": "#e1f1f3",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Robin's Egg Blue",
@@ -69,7 +84,10 @@
     "imgURL": "https://copic.jp/images/color/color_B02.jpg",
     "extractedColor": "#82d4fd",
     "fileName": "B02.jpg",
-    "hex": "#c5e6f0"
+    "hex": "#c5e6f0",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Tahitian Blue",
@@ -78,7 +96,10 @@
     "imgURL": "https://copic.jp/images/color/color_B04.jpg",
     "extractedColor": "#43b3f3",
     "fileName": "B04.jpg",
-    "hex": "#8dd1e7"
+    "hex": "#8dd1e7",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Process Blue",
@@ -87,7 +108,10 @@
     "imgURL": "https://copic.jp/images/color/color_B05.jpg",
     "extractedColor": "#3196ea",
     "fileName": "B05.jpg",
-    "hex": "#64c5e5"
+    "hex": "#64c5e5",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Peacock Blue",
@@ -96,7 +120,10 @@
     "imgURL": "https://copic.jp/images/color/color_B06.jpg",
     "extractedColor": "#1f7ed7",
     "fileName": "B06.jpg",
-    "hex": "#00ace2"
+    "hex": "#00ace2",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Ice Blue",
@@ -105,7 +132,10 @@
     "imgURL": "https://copic.jp/images/color/color_B12.jpg",
     "extractedColor": "#9edafd",
     "fileName": "B12.jpg",
-    "hex": "#d6eaf0"
+    "hex": "#d6eaf0",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Light Blue",
@@ -114,7 +144,10 @@
     "imgURL": "https://copic.jp/images/color/color_B14.jpg",
     "extractedColor": "#56a1dc",
     "fileName": "B14.jpg",
-    "hex": "#8dd1eb"
+    "hex": "#8dd1eb",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Cyanine Blue",
@@ -123,7 +156,10 @@
     "imgURL": "https://copic.jp/images/color/color_B16.jpg",
     "extractedColor": "#2c87e2",
     "fileName": "B16.jpg",
-    "hex": "#01bae7"
+    "hex": "#01bae7",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Lapis Lazuli",
@@ -132,7 +168,10 @@
     "imgURL": "https://copic.jp/images/color/color_B18.jpg",
     "extractedColor": "#2055c9",
     "fileName": "B18.jpg",
-    "hex": "#2991c9"
+    "hex": "#2991c9",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Baby Blue",
@@ -141,7 +180,10 @@
     "imgURL": "https://copic.jp/images/color/color_B21.jpg",
     "extractedColor": "#badefd",
     "fileName": "B21.jpg",
-    "hex": "#e6f1fa"
+    "hex": "#e6f1fa",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Phthalo Blue",
@@ -150,7 +192,10 @@
     "imgURL": "https://copic.jp/images/color/color_B23.jpg",
     "extractedColor": "#749de7",
     "fileName": "B23.jpg",
-    "hex": "#abcbe9"
+    "hex": "#abcbe9",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Sky",
@@ -159,7 +204,10 @@
     "imgURL": "https://copic.jp/images/color/color_B24.jpg",
     "extractedColor": "#6da6f9",
     "fileName": "B24.jpg",
-    "hex": "#a3d5f1"
+    "hex": "#a3d5f1",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Cobalt Blue",
@@ -168,7 +216,10 @@
     "imgURL": "https://copic.jp/images/color/color_B26.jpg",
     "extractedColor": "#386cce",
     "fileName": "B26.jpg",
-    "hex": "#7fbbe3"
+    "hex": "#7fbbe3",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Royal Blue",
@@ -177,7 +228,10 @@
     "imgURL": "https://copic.jp/images/color/color_B28.jpg",
     "extractedColor": "#1a51d9",
     "fileName": "B28.jpg",
-    "hex": "#1571b0"
+    "hex": "#1571b0",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Ultramarine",
@@ -186,7 +240,10 @@
     "imgURL": "https://copic.jp/images/color/color_B29.jpg",
     "extractedColor": "#1643d6",
     "fileName": "B29.jpg",
-    "hex": "#0077ba"
+    "hex": "#0077ba",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Pale Blue",
@@ -195,7 +252,10 @@
     "imgURL": "https://copic.jp/images/color/color_B32.jpg",
     "extractedColor": "#aad4fe",
     "fileName": "B32.jpg",
-    "hex": "#eaf3f7"
+    "hex": "#eaf3f7",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Manganese Blue",
@@ -204,7 +264,10 @@
     "imgURL": "https://copic.jp/images/color/color_B34.jpg",
     "extractedColor": "#6687bf",
     "fileName": "B34.jpg",
-    "hex": "#9bcbeb"
+    "hex": "#9bcbeb",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Antwerp Blue",
@@ -213,7 +276,10 @@
     "imgURL": "https://copic.jp/images/color/color_B37.jpg",
     "extractedColor": "#225292",
     "fileName": "B37.jpg",
-    "hex": "#0472a3"
+    "hex": "#0472a3",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Prussian Blue",
@@ -222,7 +288,10 @@
     "imgURL": "https://copic.jp/images/color/color_B39.jpg",
     "extractedColor": "#1e397b",
     "fileName": "B39.jpg",
-    "hex": "#286aa7"
+    "hex": "#286aa7",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Powder Blue",
@@ -231,7 +300,10 @@
     "imgURL": "https://copic.jp/images/color/color_B41.jpg",
     "extractedColor": "#c6e2fb",
     "fileName": "B41.jpg",
-    "hex": "#eaf3fb"
+    "hex": "#eaf3fb",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Smoky Blue",
@@ -240,7 +312,10 @@
     "imgURL": "https://copic.jp/images/color/color_B45.jpg",
     "extractedColor": "#759bd3",
     "fileName": "B45.jpg",
-    "hex": "#8fc7ea"
+    "hex": "#8fc7ea",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Soft Greenish Blue",
@@ -249,7 +324,10 @@
     "imgURL": "https://copic.jp/images/color/color_B52.jpg",
     "extractedColor": "#98c6dd",
     "fileName": "B52.jpg",
-    "hex": "#c1d6e1"
+    "hex": "#c1d6e1",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Pale Blue Gray",
@@ -258,7 +336,10 @@
     "imgURL": "https://copic.jp/images/color/color_B60.jpg",
     "extractedColor": "#efedfd",
     "fileName": "B60.jpg",
-    "hex": "#e4e8f4"
+    "hex": "#e4e8f4",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Light Hydrangea",
@@ -267,7 +348,10 @@
     "imgURL": "https://copic.jp/images/color/color_B63.jpg",
     "extractedColor": "#babff6",
     "fileName": "B63.jpg",
-    "hex": "#bcc6e2"
+    "hex": "#bcc6e2",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Clematis",
@@ -276,7 +360,10 @@
     "imgURL": "https://copic.jp/images/color/color_B66.jpg",
     "extractedColor": "#5b67cf",
     "fileName": "B66.jpg",
-    "hex": "#6473b4"
+    "hex": "#6473b4",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Stratospheric Blue",
@@ -285,7 +372,10 @@
     "imgURL": "https://copic.jp/images/color/color_B69.jpg",
     "extractedColor": "#2336c2",
     "fileName": "B69.jpg",
-    "hex": "#1967a7"
+    "hex": "#1967a7",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Iris",
@@ -294,7 +384,10 @@
     "imgURL": "https://copic.jp/images/color/color_B79.jpg",
     "extractedColor": "#1d27a2",
     "fileName": "B79.jpg",
-    "hex": "#31418f"
+    "hex": "#31418f",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Pale Grayish Blue",
@@ -303,7 +396,10 @@
     "imgURL": "https://copic.jp/images/color/color_B91.jpg",
     "extractedColor": "#bed1e6",
     "fileName": "B91.jpg",
-    "hex": "#e1e9ed"
+    "hex": "#e1e9ed",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Light Crockery Blue",
@@ -312,7 +408,10 @@
     "imgURL": "https://copic.jp/images/color/color_B93.jpg",
     "extractedColor": "#9dbbdc",
     "fileName": "B93.jpg",
-    "hex": "#abcbdf"
+    "hex": "#abcbdf",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Light Grayish Cobalt",
@@ -321,7 +420,10 @@
     "imgURL": "https://copic.jp/images/color/color_B95.jpg",
     "extractedColor": "#80a2ce",
     "fileName": "B95.jpg",
-    "hex": "#88b0ca"
+    "hex": "#88b0ca",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Night Blue",
@@ -330,7 +432,10 @@
     "imgURL": "https://copic.jp/images/color/color_B97.jpg",
     "extractedColor": "#456795",
     "fileName": "B97.jpg",
-    "hex": "#45809d"
+    "hex": "#45809d",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Agate",
@@ -339,7 +444,10 @@
     "imgURL": "https://copic.jp/images/color/color_B99.jpg",
     "extractedColor": "#344668",
     "fileName": "B99.jpg",
-    "hex": "#004d7a"
+    "hex": "#004d7a",
+    "family": [
+      "B"
+    ]
   },
   {
     "name": "Pale Aqua",
@@ -348,7 +456,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG000.jpg",
     "extractedColor": "#d8fef7",
     "fileName": "BG000.jpg",
-    "hex": "#f7fbf9"
+    "hex": "#f7fbf9",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Snow Green",
@@ -357,7 +468,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG0000.jpg",
     "extractedColor": "#ecfef8",
     "fileName": "BG0000.jpg",
-    "hex": "#f5f9f6"
+    "hex": "#f5f9f6",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Aqua Blue",
@@ -366,7 +480,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG01.jpg",
     "extractedColor": "#91f2f8",
     "fileName": "BG01.jpg",
-    "hex": "#d6ebf8"
+    "hex": "#d6ebf8",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "New Blue",
@@ -375,7 +492,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG02.jpg",
     "extractedColor": "#72daef",
     "fileName": "BG02.jpg",
-    "hex": "#d4ebed"
+    "hex": "#d4ebed",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Holiday Blue",
@@ -384,7 +504,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG05.jpg",
     "extractedColor": "#3baac0",
     "fileName": "BG05.jpg",
-    "hex": "#9cd5e6"
+    "hex": "#9cd5e6",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Petroleum Blue",
@@ -393,7 +516,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG07.jpg",
     "extractedColor": "#218d9d",
     "fileName": "BG07.jpg",
-    "hex": "#33b8d2"
+    "hex": "#33b8d2",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Blue Green",
@@ -402,7 +528,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG09.jpg",
     "extractedColor": "#1d8088",
     "fileName": "BG09.jpg",
-    "hex": "#09b1cd"
+    "hex": "#09b1cd",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Cool Shadow",
@@ -411,7 +540,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG10.jpg",
     "extractedColor": "#defdf2",
     "fileName": "BG10.jpg",
-    "hex": "#e7f3f2"
+    "hex": "#e7f3f2",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Moon White",
@@ -420,7 +552,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG11.jpg",
     "extractedColor": "#d2fcf0",
     "fileName": "BG11.jpg",
-    "hex": "#daeef2"
+    "hex": "#daeef2",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Mint Green",
@@ -429,7 +564,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG13.jpg",
     "extractedColor": "#70d6c1",
     "fileName": "BG13.jpg",
-    "hex": "#d3eaeb"
+    "hex": "#d3eaeb",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Aqua",
@@ -438,7 +576,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG15.jpg",
     "extractedColor": "#39ac8f",
     "fileName": "BG15.jpg",
-    "hex": "#b5ddd6"
+    "hex": "#b5ddd6",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Teal Blue",
@@ -447,7 +588,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG18.jpg",
     "extractedColor": "#41847b",
     "fileName": "BG18.jpg",
-    "hex": "#56beb3"
+    "hex": "#56beb3",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Coral Sea",
@@ -456,7 +600,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG23.jpg",
     "extractedColor": "#89e2c5",
     "fileName": "BG23.jpg",
-    "hex": "#cde7e0"
+    "hex": "#cde7e0",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Aqua Mint",
@@ -465,7 +612,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG32.jpg",
     "extractedColor": "#95e8cd",
     "fileName": "BG32.jpg",
-    "hex": "#cce6db"
+    "hex": "#cce6db",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Horizon Green",
@@ -474,7 +624,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG34.jpg",
     "extractedColor": "#8ae1b8",
     "fileName": "BG34.jpg",
-    "hex": "#b8dedb"
+    "hex": "#b8dedb",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Nile Blue",
@@ -483,7 +636,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG45.jpg",
     "extractedColor": "#68cbc3",
     "fileName": "BG45.jpg",
-    "hex": "#c1e2e3"
+    "hex": "#c1e2e3",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Duck Blue",
@@ -492,7 +648,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG49.jpg",
     "extractedColor": "#0c8174",
     "fileName": "BG49.jpg",
-    "hex": "#15b2bc"
+    "hex": "#15b2bc",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Ice Mint",
@@ -501,7 +660,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG53.jpg",
     "extractedColor": "#8ad7db",
     "fileName": "BG53.jpg",
-    "hex": "#5cb6bd"
+    "hex": "#5cb6bd",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Jasper",
@@ -510,7 +672,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG57.jpg",
     "extractedColor": "#59acaf",
     "fileName": "BG57.jpg",
-    "hex": "#04a2ad"
+    "hex": "#04a2ad",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Ocean Mist",
@@ -519,7 +684,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG70.jpg",
     "extractedColor": "#e9efef",
     "fileName": "BG70.jpg",
-    "hex": "#e5eee3"
+    "hex": "#e5eee3",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Ice Ocean",
@@ -528,7 +696,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG72.jpg",
     "extractedColor": "#9bc2c4",
     "fileName": "BG72.jpg",
-    "hex": "#88bec1"
+    "hex": "#88bec1",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Abyss Green",
@@ -537,7 +708,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG75.jpg",
     "extractedColor": "#4c777a",
     "fileName": "BG75.jpg",
-    "hex": "#b5ddd6"
+    "hex": "#b5ddd6",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Bronze",
@@ -546,7 +720,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG78.jpg",
     "extractedColor": "#3c6b6e",
     "fileName": "BG78.jpg",
-    "hex": "#48756b"
+    "hex": "#48756b",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Gray Sky",
@@ -555,7 +732,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG90.jpg",
     "extractedColor": "#dfe2d2",
     "fileName": "BG90.jpg",
-    "hex": "#d1ccb8"
+    "hex": "#d1ccb8",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Green Gray",
@@ -564,7 +744,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG93.jpg",
     "extractedColor": "#a6aa88",
     "fileName": "BG93.jpg",
-    "hex": "#cbcec4"
+    "hex": "#cbcec4",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Bush",
@@ -573,7 +756,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG96.jpg",
     "extractedColor": "#636d50",
     "fileName": "BG96.jpg",
-    "hex": "#9ab09e"
+    "hex": "#9ab09e",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Flagstone Blue",
@@ -582,7 +768,10 @@
     "imgURL": "https://copic.jp/images/color/color_BG99.jpg",
     "extractedColor": "#626242",
     "fileName": "BG99.jpg",
-    "hex": "#89a996"
+    "hex": "#89a996",
+    "family": [
+      "BG"
+    ]
   },
   {
     "name": "Mauve Shadow",
@@ -591,7 +780,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV00.jpg",
     "extractedColor": "#dfc4e9",
     "fileName": "BV00.jpg",
-    "hex": "#e9e3f0"
+    "hex": "#e9e3f0",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Iridescent Mauve",
@@ -600,7 +792,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV000.jpg",
     "extractedColor": "#e9d2f0",
     "fileName": "BV000.jpg",
-    "hex": "#eee7f1"
+    "hex": "#eee7f1",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Pale Thistle",
@@ -609,7 +804,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV0000.jpg",
     "extractedColor": "#eee8f2",
     "fileName": "BV0000.jpg",
-    "hex": "#eeecf5"
+    "hex": "#eeecf5",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Viola",
@@ -618,7 +816,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV01.jpg",
     "extractedColor": "#b8afe5",
     "fileName": "BV01.jpg",
-    "hex": "#c8c4df"
+    "hex": "#c8c4df",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Prune",
@@ -627,7 +828,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV02.jpg",
     "extractedColor": "#a199e2",
     "fileName": "BV02.jpg",
-    "hex": "#bec4df"
+    "hex": "#bec4df",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Blue Berry",
@@ -636,7 +840,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV04.jpg",
     "extractedColor": "#4f5aa8",
     "fileName": "BV04.jpg",
-    "hex": "#92a4ce"
+    "hex": "#92a4ce",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Blue Violet",
@@ -645,7 +852,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV08.jpg",
     "extractedColor": "#433470",
     "fileName": "BV08.jpg",
-    "hex": "#b08cb9"
+    "hex": "#b08cb9",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Soft Violet",
@@ -654,7 +864,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV11.jpg",
     "extractedColor": "#b6a4d3",
     "fileName": "BV11.jpg",
-    "hex": "#e0dcec"
+    "hex": "#e0dcec",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Hydrangea Blue",
@@ -663,7 +876,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV13.jpg",
     "extractedColor": "#7c82d3",
     "fileName": "BV13.jpg",
-    "hex": "#989ec9"
+    "hex": "#989ec9",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Deep Reddish Blue",
@@ -672,7 +888,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV17.jpg",
     "extractedColor": "#4b458b",
     "fileName": "BV17.jpg",
-    "hex": "#7e90bd"
+    "hex": "#7e90bd",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Dull Lavender",
@@ -681,7 +900,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV20.jpg",
     "extractedColor": "#b8bbd4",
     "fileName": "BV20.jpg",
-    "hex": "#dce3f2"
+    "hex": "#dce3f2",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Grayish Lavender",
@@ -690,7 +912,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV23.jpg",
     "extractedColor": "#868397",
     "fileName": "BV23.jpg",
-    "hex": "#c4cde1"
+    "hex": "#c4cde1",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Grayish Violet",
@@ -699,7 +924,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV25.jpg",
     "extractedColor": "#676476",
     "fileName": "BV25.jpg",
-    "hex": "#908fac"
+    "hex": "#908fac",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Slate",
@@ -708,7 +936,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV29.jpg",
     "extractedColor": "#22212d",
     "fileName": "BV29.jpg",
-    "hex": "#2e4256"
+    "hex": "#2e4256",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Pale Lavender",
@@ -717,7 +948,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV31.jpg",
     "extractedColor": "#cecae7",
     "fileName": "BV31.jpg",
-    "hex": "#e6e8f4"
+    "hex": "#e6e8f4",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Bluebell",
@@ -726,7 +960,10 @@
     "imgURL": "https://copic.jp/images/color/color_BV34.jpg",
     "extractedColor": "#8487b5",
     "fileName": "BV34.jpg",
-    "hex": "#7f92bd"
+    "hex": "#7f92bd",
+    "family": [
+      "BV"
+    ]
   },
   {
     "name": "Cool Gray No.0",
@@ -735,7 +972,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-0.jpg",
     "extractedColor": "#f2f6fb",
     "fileName": "C-0.jpg",
-    "hex": "#edf2f4"
+    "hex": "#edf2f4",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.00",
@@ -744,7 +984,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-00.jpg",
     "extractedColor": "#fbfcfe",
     "fileName": "C-00.jpg",
-    "hex": "#f1f4f6"
+    "hex": "#f1f4f6",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.1",
@@ -753,7 +996,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-1.jpg",
     "extractedColor": "#e4ebf3",
     "fileName": "C-1.jpg",
-    "hex": "#e4eaed"
+    "hex": "#e4eaed",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.10",
@@ -762,7 +1008,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-10.jpg",
     "extractedColor": "#25222c",
     "fileName": "C-10.jpg",
-    "hex": "#1f1e1e"
+    "hex": "#1f1e1e",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.2",
@@ -771,7 +1020,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-2.jpg",
     "extractedColor": "#d4dfe7",
     "fileName": "C-2.jpg",
-    "hex": "#d9e0e4"
+    "hex": "#d9e0e4",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.3",
@@ -780,7 +1032,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-3.jpg",
     "extractedColor": "#b6c1cd",
     "fileName": "C-3.jpg",
-    "hex": "#d0d5da"
+    "hex": "#d0d5da",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.4",
@@ -789,7 +1044,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-4.jpg",
     "extractedColor": "#99a4b1",
     "fileName": "C-4.jpg",
-    "hex": "#b9c1c7"
+    "hex": "#b9c1c7",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.5",
@@ -798,7 +1056,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-5.jpg",
     "extractedColor": "#828d98",
     "fileName": "C-5.jpg",
-    "hex": "#a4aeb2"
+    "hex": "#a4aeb2",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.6",
@@ -807,7 +1068,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-6.jpg",
     "extractedColor": "#656e7a",
     "fileName": "C-6.jpg",
-    "hex": "#939ba1"
+    "hex": "#939ba1",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.7",
@@ -816,7 +1080,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-7.jpg",
     "extractedColor": "#4c555f",
     "fileName": "C-7.jpg",
-    "hex": "#777f83"
+    "hex": "#777f83",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.8",
@@ -825,7 +1092,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-8.jpg",
     "extractedColor": "#363c44",
     "fileName": "C-8.jpg",
-    "hex": "#63696d"
+    "hex": "#63696d",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cool Gray No.9",
@@ -834,7 +1104,10 @@
     "imgURL": "https://copic.jp/images/color/color_C-9.jpg",
     "extractedColor": "#2e2c37",
     "fileName": "C-9.jpg",
-    "hex": "#535150"
+    "hex": "#535150",
+    "family": [
+      "C"
+    ]
   },
   {
     "name": "Cotton Pearl",
@@ -843,7 +1116,10 @@
     "imgURL": "https://copic.jp/images/color/color_E00.jpg",
     "extractedColor": "#fee8ca",
     "fileName": "E00.jpg",
-    "hex": "#fff6ee"
+    "hex": "#fff6ee",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Pale Fruit Pink",
@@ -852,7 +1128,10 @@
     "imgURL": "https://copic.jp/images/color/color_E000.jpg",
     "extractedColor": "#fef3df",
     "fileName": "E000.jpg",
-    "hex": "#fff8f1"
+    "hex": "#fff8f1",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Floral White",
@@ -861,7 +1140,10 @@
     "imgURL": "https://copic.jp/images/color/color_E0000.jpg",
     "extractedColor": "#fdf8ef",
     "fileName": "E0000.jpg",
-    "hex": "#fffaf3"
+    "hex": "#fffaf3",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Pink Flamingo",
@@ -870,7 +1152,10 @@
     "imgURL": "https://copic.jp/images/color/color_E01.jpg",
     "extractedColor": "#fedbbc",
     "fileName": "E01.jpg",
-    "hex": "#fff2e9"
+    "hex": "#fff2e9",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Fruit Pink",
@@ -879,7 +1164,10 @@
     "imgURL": "https://copic.jp/images/color/color_E02.jpg",
     "extractedColor": "#fec59f",
     "fileName": "E02.jpg",
-    "hex": "#fff1e6"
+    "hex": "#fff1e6",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Lipstick Rose",
@@ -888,7 +1176,10 @@
     "imgURL": "https://copic.jp/images/color/color_E04.jpg",
     "extractedColor": "#a37072",
     "fileName": "E04.jpg",
-    "hex": "#eccace"
+    "hex": "#eccace",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Light Mahogany",
@@ -897,7 +1188,10 @@
     "imgURL": "https://copic.jp/images/color/color_E07.jpg",
     "extractedColor": "#933e3a",
     "fileName": "E07.jpg",
-    "hex": "#d99278"
+    "hex": "#d99278",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Brown",
@@ -906,7 +1200,10 @@
     "imgURL": "https://copic.jp/images/color/color_E08.jpg",
     "extractedColor": "#a8482a",
     "fileName": "E08.jpg",
-    "hex": "#d5745c"
+    "hex": "#d5745c",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Burnt Sienna",
@@ -915,7 +1212,10 @@
     "imgURL": "https://copic.jp/images/color/color_E09.jpg",
     "extractedColor": "#954021",
     "fileName": "E09.jpg",
-    "hex": "#e27453"
+    "hex": "#e27453",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Barley Beige",
@@ -924,7 +1224,10 @@
     "imgURL": "https://copic.jp/images/color/color_E11.jpg",
     "extractedColor": "#e1bc9e",
     "fileName": "E11.jpg",
-    "hex": "#ffefde"
+    "hex": "#ffefde",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Desert Sand",
@@ -933,7 +1236,10 @@
     "imgURL": "https://copic.jp/images/color/color_E13.jpg",
     "extractedColor": "#d39b71",
     "fileName": "E13.jpg",
-    "hex": "#efd2bb"
+    "hex": "#efd2bb",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Earthenware",
@@ -942,7 +1248,10 @@
     "imgURL": "https://copic.jp/images/color/color_E15.jpg",
     "extractedColor": "#ae6d43",
     "fileName": "E15.jpg",
-    "hex": "#fdc797"
+    "hex": "#fdc797",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Reddish Brass",
@@ -951,7 +1260,10 @@
     "imgURL": "https://copic.jp/images/color/color_E17.jpg",
     "extractedColor": "#994f34",
     "fileName": "E17.jpg",
-    "hex": "#c46755"
+    "hex": "#c46755",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Copper",
@@ -960,7 +1272,10 @@
     "imgURL": "https://copic.jp/images/color/color_E18.jpg",
     "extractedColor": "#672d1f",
     "fileName": "E18.jpg",
-    "hex": "#97564a"
+    "hex": "#97564a",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Redwood",
@@ -969,7 +1284,10 @@
     "imgURL": "https://copic.jp/images/color/color_E19.jpg",
     "extractedColor": "#843419",
     "fileName": "E19.jpg",
-    "hex": "#ce5425"
+    "hex": "#ce5425",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Soft Sun",
@@ -978,7 +1296,10 @@
     "imgURL": "https://copic.jp/images/color/color_E21.jpg",
     "extractedColor": "#fed4a3",
     "fileName": "E21.jpg",
-    "hex": "#ffe9d2"
+    "hex": "#ffe9d2",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Hazelnut",
@@ -987,7 +1308,10 @@
     "imgURL": "https://copic.jp/images/color/color_E23.jpg",
     "extractedColor": "#bf7b54",
     "fileName": "E23.jpg",
-    "hex": "#aa6a4b"
+    "hex": "#aa6a4b",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Caribe Cocoa",
@@ -996,7 +1320,10 @@
     "imgURL": "https://copic.jp/images/color/color_E25.jpg",
     "extractedColor": "#a76850",
     "fileName": "E25.jpg",
-    "hex": "#dfb693"
+    "hex": "#dfb693",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Milk Chocolate",
@@ -1005,7 +1332,10 @@
     "imgURL": "https://copic.jp/images/color/color_E27.jpg",
     "extractedColor": "#92543d",
     "fileName": "E27.jpg",
-    "hex": "#ac866d"
+    "hex": "#ac866d",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Burnt Umber",
@@ -1014,7 +1344,10 @@
     "imgURL": "https://copic.jp/images/color/color_E29.jpg",
     "extractedColor": "#783222",
     "fileName": "E29.jpg",
-    "hex": "#903f0a"
+    "hex": "#903f0a",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Bisque",
@@ -1023,7 +1356,10 @@
     "imgURL": "https://copic.jp/images/color/color_E30.jpg",
     "extractedColor": "#fee9c0",
     "fileName": "E30.jpg",
-    "hex": "#f7efcf"
+    "hex": "#f7efcf",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Brick Beige",
@@ -1032,7 +1368,10 @@
     "imgURL": "https://copic.jp/images/color/color_E31.jpg",
     "extractedColor": "#f0cc99",
     "fileName": "E31.jpg",
-    "hex": "#f6ecd7"
+    "hex": "#f6ecd7",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Sand",
@@ -1041,7 +1380,10 @@
     "imgURL": "https://copic.jp/images/color/color_E33.jpg",
     "extractedColor": "#e29b6a",
     "fileName": "E33.jpg",
-    "hex": "#f6dcbd"
+    "hex": "#f6dcbd",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Toast",
@@ -1050,7 +1392,10 @@
     "imgURL": "https://copic.jp/images/color/color_E34.jpg",
     "extractedColor": "#df9e6c",
     "fileName": "E34.jpg",
-    "hex": "#f5d7b3"
+    "hex": "#f5d7b3",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Chamois",
@@ -1059,7 +1404,10 @@
     "imgURL": "https://copic.jp/images/color/color_E35.jpg",
     "extractedColor": "#cc8b52",
     "fileName": "E35.jpg",
-    "hex": "#eed2b2"
+    "hex": "#eed2b2",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Sepia",
@@ -1068,7 +1416,10 @@
     "imgURL": "https://copic.jp/images/color/color_E37.jpg",
     "extractedColor": "#89501e",
     "fileName": "E37.jpg",
-    "hex": "#d9a566"
+    "hex": "#d9a566",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Leather",
@@ -1077,7 +1428,10 @@
     "imgURL": "https://copic.jp/images/color/color_E39.jpg",
     "extractedColor": "#955116",
     "fileName": "E39.jpg",
-    "hex": "#d27d33"
+    "hex": "#d27d33",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Brick White",
@@ -1086,7 +1440,10 @@
     "imgURL": "https://copic.jp/images/color/color_E40.jpg",
     "extractedColor": "#f3e8d8",
     "fileName": "E40.jpg",
-    "hex": "#f7f0e5"
+    "hex": "#f7f0e5",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Pearl White",
@@ -1095,7 +1452,10 @@
     "imgURL": "https://copic.jp/images/color/color_E41.jpg",
     "extractedColor": "#f9e3be",
     "fileName": "E41.jpg",
-    "hex": "#fff4e8"
+    "hex": "#fff4e8",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Sand White",
@@ -1104,7 +1464,10 @@
     "imgURL": "https://copic.jp/images/color/color_E42.jpg",
     "extractedColor": "#ecd1ad",
     "fileName": "E42.jpg",
-    "hex": "#f2e8d3"
+    "hex": "#f2e8d3",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Dull Ivory",
@@ -1113,7 +1476,10 @@
     "imgURL": "https://copic.jp/images/color/color_E43.jpg",
     "extractedColor": "#c2a178",
     "fileName": "E43.jpg",
-    "hex": "#f0e6cb"
+    "hex": "#f0e6cb",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Clay",
@@ -1122,7 +1488,10 @@
     "imgURL": "https://copic.jp/images/color/color_E44.jpg",
     "extractedColor": "#936f4d",
     "fileName": "E44.jpg",
-    "hex": "#d4c9b6"
+    "hex": "#d4c9b6",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Dark Brown",
@@ -1131,7 +1500,10 @@
     "imgURL": "https://copic.jp/images/color/color_E47.jpg",
     "extractedColor": "#734b37",
     "fileName": "E47.jpg",
-    "hex": "#9a826c"
+    "hex": "#9a826c",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Dark Bark",
@@ -1140,7 +1512,10 @@
     "imgURL": "https://copic.jp/images/color/color_E49.jpg",
     "extractedColor": "#3d281e",
     "fileName": "E49.jpg",
-    "hex": "#7a5d45"
+    "hex": "#7a5d45",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Egg Shell",
@@ -1149,7 +1524,10 @@
     "imgURL": "https://copic.jp/images/color/color_E50.jpg",
     "extractedColor": "#fef2cf",
     "fileName": "E50.jpg",
-    "hex": "#f7f0f1"
+    "hex": "#f7f0f1",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Milky White",
@@ -1158,7 +1536,10 @@
     "imgURL": "https://copic.jp/images/color/color_E51.jpg",
     "extractedColor": "#feebbe",
     "fileName": "E51.jpg",
-    "hex": "#fff1de"
+    "hex": "#fff1de",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Raw Silk",
@@ -1167,7 +1548,10 @@
     "imgURL": "https://copic.jp/images/color/color_E53.jpg",
     "extractedColor": "#f9c692",
     "fileName": "E53.jpg",
-    "hex": "#f6eccc"
+    "hex": "#f6eccc",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Light Camel",
@@ -1176,7 +1560,10 @@
     "imgURL": "https://copic.jp/images/color/color_E55.jpg",
     "extractedColor": "#d2a56b",
     "fileName": "E55.jpg",
-    "hex": "#f5e6c4"
+    "hex": "#f5e6c4",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Light Walnut",
@@ -1185,7 +1572,10 @@
     "imgURL": "https://copic.jp/images/color/color_E57.jpg",
     "extractedColor": "#7e5430",
     "fileName": "E57.jpg",
-    "hex": "#c29a6a"
+    "hex": "#c29a6a",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Walnut",
@@ -1194,7 +1584,10 @@
     "imgURL": "https://copic.jp/images/color/color_E59.jpg",
     "extractedColor": "#5e3f22",
     "fileName": "E59.jpg",
-    "hex": "#ad9076"
+    "hex": "#ad9076",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Ash Rose",
@@ -1203,7 +1596,10 @@
     "imgURL": "https://copic.jp/images/color/color_E70.jpg",
     "extractedColor": "#ddc6bf",
     "fileName": "E70.jpg",
-    "hex": "#f1e9e2"
+    "hex": "#f1e9e2",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Champagne",
@@ -1212,7 +1608,10 @@
     "imgURL": "https://copic.jp/images/color/color_E71.jpg",
     "extractedColor": "#b3928c",
     "fileName": "E71.jpg",
-    "hex": "#ebe1da"
+    "hex": "#ebe1da",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Cocoa Brown",
@@ -1221,7 +1620,10 @@
     "imgURL": "https://copic.jp/images/color/color_E74.jpg",
     "extractedColor": "#906d67",
     "fileName": "E74.jpg",
-    "hex": "#b5998c"
+    "hex": "#b5998c",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Maroon",
@@ -1230,7 +1632,10 @@
     "imgURL": "https://copic.jp/images/color/color_E77.jpg",
     "extractedColor": "#66413b",
     "fileName": "E77.jpg",
-    "hex": "#947157"
+    "hex": "#947157",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Cashew",
@@ -1239,7 +1644,10 @@
     "imgURL": "https://copic.jp/images/color/color_E79.jpg",
     "extractedColor": "#4c2f29",
     "fileName": "E79.jpg",
-    "hex": "#52382d"
+    "hex": "#52382d",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Ivory",
@@ -1248,7 +1656,10 @@
     "imgURL": "https://copic.jp/images/color/color_E81.jpg",
     "extractedColor": "#e8e0b9",
     "fileName": "E81.jpg",
-    "hex": "#dccd98"
+    "hex": "#dccd98",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Khaki",
@@ -1257,7 +1668,10 @@
     "imgURL": "https://copic.jp/images/color/color_E84.jpg",
     "extractedColor": "#b19b61",
     "fileName": "E84.jpg",
-    "hex": "#b4955f"
+    "hex": "#b4955f",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Fig",
@@ -1266,7 +1680,10 @@
     "imgURL": "https://copic.jp/images/color/color_E87.jpg",
     "extractedColor": "#68562b",
     "fileName": "E87.jpg",
-    "hex": "#5b4d38"
+    "hex": "#5b4d38",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Pecan",
@@ -1275,7 +1692,10 @@
     "imgURL": "https://copic.jp/images/color/color_E89.jpg",
     "extractedColor": "#4c3c1e",
     "fileName": "E89.jpg",
-    "hex": "#7b746a"
+    "hex": "#7b746a",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Tea Rose",
@@ -1284,7 +1704,10 @@
     "imgURL": "https://copic.jp/images/color/color_E93.jpg",
     "extractedColor": "#febda4",
     "fileName": "E93.jpg",
-    "hex": "#fedbc2"
+    "hex": "#fedbc2",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Tea Orange",
@@ -1293,7 +1716,10 @@
     "imgURL": "https://copic.jp/images/color/color_E95.jpg",
     "extractedColor": "#fec196",
     "fileName": "E95.jpg",
-    "hex": "#fec788"
+    "hex": "#fec788",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Deep Orange",
@@ -1302,7 +1728,10 @@
     "imgURL": "https://copic.jp/images/color/color_E97.jpg",
     "extractedColor": "#fc9462",
     "fileName": "E97.jpg",
-    "hex": "#f3a962"
+    "hex": "#f3a962",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Baked Clay",
@@ -1311,7 +1740,10 @@
     "imgURL": "https://copic.jp/images/color/color_E99.jpg",
     "extractedColor": "#a76226",
     "fileName": "E99.jpg",
-    "hex": "#c06508"
+    "hex": "#c06508",
+    "family": [
+      "E"
+    ]
   },
   {
     "name": "Fluorescent Blue",
@@ -1320,7 +1752,10 @@
     "imgURL": "https://copic.jp/images/color/color_FB.jpg",
     "extractedColor": "#4480f9",
     "fileName": "FB.jpg",
-    "hex": "#0b93cd"
+    "hex": "#0b93cd",
+    "family": [
+      "FB"
+    ]
   },
   {
     "name": "Fluorescent Blue Green",
@@ -1329,7 +1764,10 @@
     "imgURL": "https://copic.jp/images/color/color_FBG.jpg",
     "extractedColor": "#6ccaea",
     "fileName": "FBG.jpg",
-    "hex": "#80cde7"
+    "hex": "#80cde7",
+    "family": [
+      "FBG"
+    ]
   },
   {
     "name": "Fluorescent Green",
@@ -1338,7 +1776,10 @@
     "imgURL": "https://copic.jp/images/color/color_FG.jpg",
     "extractedColor": "#60bb49",
     "fileName": "FG.jpg",
-    "hex": "#afce15"
+    "hex": "#afce15",
+    "family": [
+      "FG"
+    ]
   },
   {
     "name": "Fluorescent Pink",
@@ -1347,7 +1788,10 @@
     "imgURL": "https://copic.jp/images/color/color_FRV.jpg",
     "extractedColor": "#fe8ed4",
     "fileName": "FRV.jpg",
-    "hex": "#f9b0cb"
+    "hex": "#f9b0cb",
+    "family": [
+      "FRV"
+    ]
   },
   {
     "name": "Fluorescent Violet",
@@ -1356,7 +1800,10 @@
     "imgURL": "https://copic.jp/images/color/color_FV.jpg",
     "extractedColor": "#734be0",
     "fileName": "FV.jpg",
-    "hex": "#917fb3"
+    "hex": "#917fb3",
+    "family": [
+      "FV"
+    ]
   },
   {
     "name": "Fluorescent Yellow",
@@ -1365,7 +1812,10 @@
     "imgURL": "https://copic.jp/images/color/color_FY.jpg",
     "extractedColor": "#fee27f",
     "fileName": "FY.jpg",
-    "hex": "#fff9a0"
+    "hex": "#fff9a0",
+    "family": [
+      "FY"
+    ]
   },
   {
     "name": "Fluorescent Yellow Green",
@@ -1374,7 +1824,10 @@
     "imgURL": "https://copic.jp/images/color/color_FYG.jpg",
     "extractedColor": "#f2fe84",
     "fileName": "FYG.jpg",
-    "hex": "#dce4aa"
+    "hex": "#dce4aa",
+    "family": [
+      "FYG"
+    ]
   },
   {
     "name": "Fluorescent Orange",
@@ -1383,7 +1836,10 @@
     "imgURL": "https://copic.jp/images/color/color_FYR.jpg",
     "extractedColor": "#fec378",
     "fileName": "FYR.jpg",
-    "hex": "#ffd7a4"
+    "hex": "#ffd7a4",
+    "family": [
+      "FYR"
+    ]
   },
   {
     "name": "Jade Green",
@@ -1392,7 +1848,10 @@
     "imgURL": "https://copic.jp/images/color/color_G00.jpg",
     "extractedColor": "#cbfae1",
     "fileName": "G00.jpg",
-    "hex": "#eaf5f6"
+    "hex": "#eaf5f6",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Pale Green",
@@ -1401,7 +1860,10 @@
     "imgURL": "https://copic.jp/images/color/color_G000.jpg",
     "extractedColor": "#e3feed",
     "fileName": "G000.jpg",
-    "hex": "#f7fbf7"
+    "hex": "#f7fbf7",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Crystal Opal",
@@ -1410,7 +1872,10 @@
     "imgURL": "https://copic.jp/images/color/color_G0000.jpg",
     "extractedColor": "#f0fef8",
     "fileName": "G0000.jpg",
-    "hex": "#f6faf6"
+    "hex": "#f6faf6",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Spectrum Green",
@@ -1419,7 +1884,10 @@
     "imgURL": "https://copic.jp/images/color/color_G02.jpg",
     "extractedColor": "#85dd90",
     "fileName": "G02.jpg",
-    "hex": "#dbecd9"
+    "hex": "#dbecd9",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Meadow Green",
@@ -1428,7 +1896,10 @@
     "imgURL": "https://copic.jp/images/color/color_G03.jpg",
     "extractedColor": "#73d47c",
     "fileName": "G03.jpg",
-    "hex": "#b0de7f"
+    "hex": "#b0de7f",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Emerald Green",
@@ -1437,7 +1908,10 @@
     "imgURL": "https://copic.jp/images/color/color_G05.jpg",
     "extractedColor": "#41ac4d",
     "fileName": "G05.jpg",
-    "hex": "#7dc079"
+    "hex": "#7dc079",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Nile Green",
@@ -1446,7 +1920,10 @@
     "imgURL": "https://copic.jp/images/color/color_G07.jpg",
     "extractedColor": "#3f9439",
     "fileName": "G07.jpg",
-    "hex": "#8fc676"
+    "hex": "#8fc676",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Veronese Green",
@@ -1455,7 +1932,10 @@
     "imgURL": "https://copic.jp/images/color/color_G09.jpg",
     "extractedColor": "#3ba54e",
     "fileName": "G09.jpg",
-    "hex": "#8fc460"
+    "hex": "#8fc460",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Sea Green",
@@ -1464,7 +1944,10 @@
     "imgURL": "https://copic.jp/images/color/color_G12.jpg",
     "extractedColor": "#c0e2aa",
     "fileName": "G12.jpg",
-    "hex": "#deeccb"
+    "hex": "#deeccb",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Apple Green",
@@ -1473,7 +1956,10 @@
     "imgURL": "https://copic.jp/images/color/color_G14.jpg",
     "extractedColor": "#6cc157",
     "fileName": "G14.jpg",
-    "hex": "#aad294"
+    "hex": "#aad294",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Malachite",
@@ -1482,7 +1968,10 @@
     "imgURL": "https://copic.jp/images/color/color_G16.jpg",
     "extractedColor": "#298f57",
     "fileName": "G16.jpg",
-    "hex": "#76c19c"
+    "hex": "#76c19c",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Forest Green",
@@ -1491,7 +1980,10 @@
     "imgURL": "https://copic.jp/images/color/color_G17.jpg",
     "extractedColor": "#379352",
     "fileName": "G17.jpg",
-    "hex": "#27ae7d"
+    "hex": "#27ae7d",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Bright Parrot Green",
@@ -1500,7 +1992,10 @@
     "imgURL": "https://copic.jp/images/color/color_G19.jpg",
     "extractedColor": "#268d47",
     "fileName": "G19.jpg",
-    "hex": "#49b68a"
+    "hex": "#49b68a",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Wax White",
@@ -1509,7 +2004,10 @@
     "imgURL": "https://copic.jp/images/color/color_G20.jpg",
     "extractedColor": "#f5fbc4",
     "fileName": "G20.jpg",
-    "hex": "#f2f7e0"
+    "hex": "#f2f7e0",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Lime Green",
@@ -1518,7 +2016,10 @@
     "imgURL": "https://copic.jp/images/color/color_G21.jpg",
     "extractedColor": "#b4d192",
     "fileName": "G21.jpg",
-    "hex": "#d3e8d3"
+    "hex": "#d3e8d3",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Willow",
@@ -1527,7 +2028,10 @@
     "imgURL": "https://copic.jp/images/color/color_G24.jpg",
     "extractedColor": "#98bd79",
     "fileName": "G24.jpg",
-    "hex": "#d1e4bb"
+    "hex": "#d1e4bb",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Ocean Green",
@@ -1536,7 +2040,10 @@
     "imgURL": "https://copic.jp/images/color/color_G28.jpg",
     "extractedColor": "#2f673d",
     "fileName": "G28.jpg",
-    "hex": "#239665"
+    "hex": "#239665",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Pine Tree Green",
@@ -1545,7 +2052,10 @@
     "imgURL": "https://copic.jp/images/color/color_G29.jpg",
     "extractedColor": "#235938",
     "fileName": "G29.jpg",
-    "hex": "#3e8667"
+    "hex": "#3e8667",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Dim Green",
@@ -1554,7 +2064,10 @@
     "imgURL": "https://copic.jp/images/color/color_G40.jpg",
     "extractedColor": "#e3f8c2",
     "fileName": "G40.jpg",
-    "hex": "#ecf4e3"
+    "hex": "#ecf4e3",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Pistachio",
@@ -1563,7 +2076,10 @@
     "imgURL": "https://copic.jp/images/color/color_G43.jpg",
     "extractedColor": "#abcc79",
     "fileName": "G43.jpg",
-    "hex": "#92b35c"
+    "hex": "#92b35c",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Mistletoe",
@@ -1572,7 +2088,10 @@
     "imgURL": "https://copic.jp/images/color/color_G46.jpg",
     "extractedColor": "#5b8855",
     "fileName": "G46.jpg",
-    "hex": "#54895d"
+    "hex": "#54895d",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Spring Dim Green",
@@ -1581,7 +2100,10 @@
     "imgURL": "https://copic.jp/images/color/color_G82.jpg",
     "extractedColor": "#a9c476",
     "fileName": "G82.jpg",
-    "hex": "#dbe2c4"
+    "hex": "#dbe2c4",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Verdigris",
@@ -1590,7 +2112,10 @@
     "imgURL": "https://copic.jp/images/color/color_G85.jpg",
     "extractedColor": "#7b8256",
     "fileName": "G85.jpg",
-    "hex": "#b3cdb5"
+    "hex": "#b3cdb5",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Grayish Olive",
@@ -1599,7 +2124,10 @@
     "imgURL": "https://copic.jp/images/color/color_G94.jpg",
     "extractedColor": "#819760",
     "fileName": "G94.jpg",
-    "hex": "#aab38e"
+    "hex": "#aab38e",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Olive",
@@ -1608,7 +2136,10 @@
     "imgURL": "https://copic.jp/images/color/color_G99.jpg",
     "extractedColor": "#575f24",
     "fileName": "G99.jpg",
-    "hex": "#7b8e3f"
+    "hex": "#7b8e3f",
+    "family": [
+      "G"
+    ]
   },
   {
     "name": "Neutral Gray No.0",
@@ -1617,7 +2148,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-0.jpg",
     "extractedColor": "#eaedee",
     "fileName": "N-0.jpg",
-    "hex": "#f2f2f2"
+    "hex": "#f2f2f2",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.1",
@@ -1626,7 +2160,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-1.jpg",
     "extractedColor": "#dedede",
     "fileName": "N-1.jpg",
-    "hex": "#ebebeb"
+    "hex": "#ebebeb",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.10",
@@ -1635,7 +2172,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-10.jpg",
     "extractedColor": "#1b1c1d",
     "fileName": "N-10.jpg",
-    "hex": "#1f1e1e"
+    "hex": "#1f1e1e",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.2",
@@ -1644,7 +2184,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-2.jpg",
     "extractedColor": "#b1b5bb",
     "fileName": "N-2.jpg",
-    "hex": "#e3e3e3"
+    "hex": "#e3e3e3",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.3",
@@ -1653,7 +2196,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-3.jpg",
     "extractedColor": "#9b9fa6",
     "fileName": "N-3.jpg",
-    "hex": "#dcdcdc"
+    "hex": "#dcdcdc",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.4",
@@ -1662,7 +2208,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-4.jpg",
     "extractedColor": "#7d8289",
     "fileName": "N-4.jpg",
-    "hex": "#c9c9c9"
+    "hex": "#c9c9c9",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.5",
@@ -1671,7 +2220,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-5.jpg",
     "extractedColor": "#65686b",
     "fileName": "N-5.jpg",
-    "hex": "#b7b6b6"
+    "hex": "#b7b6b6",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.6",
@@ -1680,7 +2232,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-6.jpg",
     "extractedColor": "#484b52",
     "fileName": "N-6.jpg",
-    "hex": "#a4a4a4"
+    "hex": "#a4a4a4",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.7",
@@ -1689,7 +2244,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-7.jpg",
     "extractedColor": "#2c3136",
     "fileName": "N-7.jpg",
-    "hex": "#858485"
+    "hex": "#858485",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.8",
@@ -1698,7 +2256,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-8.jpg",
     "extractedColor": "#2b2c30",
     "fileName": "N-8.jpg",
-    "hex": "#6f6e6e"
+    "hex": "#6f6e6e",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Neutral Gray No.9",
@@ -1707,7 +2268,10 @@
     "imgURL": "https://copic.jp/images/color/color_N-9.jpg",
     "extractedColor": "#232524",
     "fileName": "N-9.jpg",
-    "hex": "#535150"
+    "hex": "#535150",
+    "family": [
+      "N"
+    ]
   },
   {
     "name": "Pinkish White",
@@ -1716,7 +2280,10 @@
     "imgURL": "https://copic.jp/images/color/color_R00.jpg",
     "extractedColor": "#fbe2d2",
     "fileName": "R00.jpg",
-    "hex": "#fff5ef"
+    "hex": "#fff5ef",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Cherry White",
@@ -1725,7 +2292,10 @@
     "imgURL": "https://copic.jp/images/color/color_R000.jpg",
     "extractedColor": "#fef7e9",
     "fileName": "R000.jpg",
-    "hex": "#fff6f2"
+    "hex": "#fff6f2",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Pink Beryl",
@@ -1734,7 +2304,10 @@
     "imgURL": "https://copic.jp/images/color/color_R0000.jpg",
     "extractedColor": "#fdfbf2",
     "fileName": "R0000.jpg",
-    "hex": "#fcf6f2"
+    "hex": "#fcf6f2",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Pinkish Vanilla",
@@ -1743,7 +2316,10 @@
     "imgURL": "https://copic.jp/images/color/color_R01.jpg",
     "extractedColor": "#fee0c8",
     "fileName": "R01.jpg",
-    "hex": "#fde0da"
+    "hex": "#fde0da",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Rose Salmon",
@@ -1752,7 +2328,10 @@
     "imgURL": "https://copic.jp/images/color/color_R02.jpg",
     "extractedColor": "#feba92",
     "fileName": "R02.jpg",
-    "hex": "#fedcd0"
+    "hex": "#fedcd0",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Salmon Red",
@@ -1761,7 +2340,10 @@
     "imgURL": "https://copic.jp/images/color/color_R05.jpg",
     "extractedColor": "#f74929",
     "fileName": "R05.jpg",
-    "hex": "#f89d85"
+    "hex": "#f89d85",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Vermilion",
@@ -1770,7 +2352,10 @@
     "imgURL": "https://copic.jp/images/color/color_R08.jpg",
     "extractedColor": "#bc3828",
     "fileName": "R08.jpg",
-    "hex": "#f46d56"
+    "hex": "#f46d56",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Pale Cherry Pink",
@@ -1779,7 +2364,10 @@
     "imgURL": "https://copic.jp/images/color/color_R11.jpg",
     "extractedColor": "#fed2be",
     "fileName": "R11.jpg",
-    "hex": "#ffe8dd"
+    "hex": "#ffe8dd",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Light Tea Rose",
@@ -1788,7 +2376,10 @@
     "imgURL": "https://copic.jp/images/color/color_R12.jpg",
     "extractedColor": "#fecba6",
     "fileName": "R12.jpg",
-    "hex": "#fedccb"
+    "hex": "#fedccb",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Light Rouge",
@@ -1797,7 +2388,10 @@
     "imgURL": "https://copic.jp/images/color/color_R14.jpg",
     "extractedColor": "#fe6a5e",
     "fileName": "R14.jpg",
-    "hex": "#f9a89d"
+    "hex": "#f9a89d",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Lipstick Orange",
@@ -1806,7 +2400,10 @@
     "imgURL": "https://copic.jp/images/color/color_R17.jpg",
     "extractedColor": "#cc423a",
     "fileName": "R17.jpg",
-    "hex": "#f78f72"
+    "hex": "#f78f72",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Blush",
@@ -1815,7 +2412,10 @@
     "imgURL": "https://copic.jp/images/color/color_R20.jpg",
     "extractedColor": "#fec9b9",
     "fileName": "R20.jpg",
-    "hex": "#fee0d9"
+    "hex": "#fee0d9",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Sardonyx",
@@ -1824,7 +2424,10 @@
     "imgURL": "https://copic.jp/images/color/color_R21.jpg",
     "extractedColor": "#febaa8",
     "fileName": "R21.jpg",
-    "hex": "#fcb6ac"
+    "hex": "#fcb6ac",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Light Prawn",
@@ -1833,7 +2436,10 @@
     "imgURL": "https://copic.jp/images/color/color_R22.jpg",
     "extractedColor": "#fe857b",
     "fileName": "R22.jpg",
-    "hex": "#ff9999"
+    "hex": "#ff9999",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Prawn",
@@ -1842,7 +2448,10 @@
     "imgURL": "https://copic.jp/images/color/color_R24.jpg",
     "extractedColor": "#dd4a48",
     "fileName": "R24.jpg",
-    "hex": "#f57f82"
+    "hex": "#f57f82",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Cadmium Red",
@@ -1851,7 +2460,10 @@
     "imgURL": "https://copic.jp/images/color/color_R27.jpg",
     "extractedColor": "#a3131a",
     "fileName": "R27.jpg",
-    "hex": "#f25364"
+    "hex": "#f25364",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Lipstick Red",
@@ -1860,7 +2472,10 @@
     "imgURL": "https://copic.jp/images/color/color_R29.jpg",
     "extractedColor": "#9c0917",
     "fileName": "R29.jpg",
-    "hex": "#ef0047"
+    "hex": "#ef0047",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Pale Yellowish Pink",
@@ -1869,7 +2484,10 @@
     "imgURL": "https://copic.jp/images/color/color_R30.jpg",
     "extractedColor": "#fedbc4",
     "fileName": "R30.jpg",
-    "hex": "#feeae5"
+    "hex": "#feeae5",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Peach",
@@ -1878,7 +2496,10 @@
     "imgURL": "https://copic.jp/images/color/color_R32.jpg",
     "extractedColor": "#fe9f97",
     "fileName": "R32.jpg",
-    "hex": "#fcccc4"
+    "hex": "#fcccc4",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Coral",
@@ -1887,7 +2508,10 @@
     "imgURL": "https://copic.jp/images/color/color_R35.jpg",
     "extractedColor": "#fd4d5f",
     "fileName": "R35.jpg",
-    "hex": "#f57a8a"
+    "hex": "#f57a8a",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Carmine",
@@ -1896,7 +2520,10 @@
     "imgURL": "https://copic.jp/images/color/color_R37.jpg",
     "extractedColor": "#b0253e",
     "fileName": "R37.jpg",
-    "hex": "#ed787d"
+    "hex": "#ed787d",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Garnet",
@@ -1905,7 +2532,10 @@
     "imgURL": "https://copic.jp/images/color/color_R39.jpg",
     "extractedColor": "#a32342",
     "fileName": "R39.jpg",
-    "hex": "#d65382"
+    "hex": "#d65382",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Bougainvillaea",
@@ -1914,7 +2544,10 @@
     "imgURL": "https://copic.jp/images/color/color_R43.jpg",
     "extractedColor": "#fd7185",
     "fileName": "R43.jpg",
-    "hex": "#f18f96"
+    "hex": "#f18f96",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Strong Red",
@@ -1923,7 +2556,10 @@
     "imgURL": "https://copic.jp/images/color/color_R46.jpg",
     "extractedColor": "#df2c4c",
     "fileName": "R46.jpg",
-    "hex": "#e6506d"
+    "hex": "#e6506d",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Currant",
@@ -1932,7 +2568,10 @@
     "imgURL": "https://copic.jp/images/color/color_R56.jpg",
     "extractedColor": "#b05264",
     "fileName": "R56.jpg",
-    "hex": "#c36679"
+    "hex": "#c36679",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Cardinal",
@@ -1941,7 +2580,10 @@
     "imgURL": "https://copic.jp/images/color/color_R59.jpg",
     "extractedColor": "#871b2b",
     "fileName": "R59.jpg",
-    "hex": "#c55f7c"
+    "hex": "#c55f7c",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Rose Pink",
@@ -1950,7 +2592,10 @@
     "imgURL": "https://copic.jp/images/color/color_R81.jpg",
     "extractedColor": "#fbc2d7",
     "fileName": "R81.jpg",
-    "hex": "#f6d4dc"
+    "hex": "#f6d4dc",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Rose Mist",
@@ -1959,7 +2604,10 @@
     "imgURL": "https://copic.jp/images/color/color_R83.jpg",
     "extractedColor": "#f095b2",
     "fileName": "R83.jpg",
-    "hex": "#f5aabf"
+    "hex": "#f5aabf",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Rose Red",
@@ -1968,7 +2616,10 @@
     "imgURL": "https://copic.jp/images/color/color_R85.jpg",
     "extractedColor": "#e16c8c",
     "fileName": "R85.jpg",
-    "hex": "#de769a"
+    "hex": "#de769a",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Dark Red",
@@ -1977,7 +2628,10 @@
     "imgURL": "https://copic.jp/images/color/color_R89.jpg",
     "extractedColor": "#7c1623",
     "fileName": "R89.jpg",
-    "hex": "#91354d"
+    "hex": "#91354d",
+    "family": [
+      "R"
+    ]
   },
   {
     "name": "Water Lily",
@@ -1986,7 +2640,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV00.jpg",
     "extractedColor": "#fee4e7",
     "fileName": "RV00.jpg",
-    "hex": "#f3d3e9"
+    "hex": "#f3d3e9",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Pale Purple",
@@ -1995,7 +2652,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV000.jpg",
     "extractedColor": "#feeff3",
     "fileName": "RV000.jpg",
-    "hex": "#f7e9f1"
+    "hex": "#f7e9f1",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Evening Primrose",
@@ -2004,7 +2664,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV0000.jpg",
     "extractedColor": "#fcf4f5",
     "fileName": "RV0000.jpg",
-    "hex": "#f7e9f1"
+    "hex": "#f7e9f1",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Sugared Almond Pink",
@@ -2013,7 +2676,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV02.jpg",
     "extractedColor": "#fec8e2",
     "fileName": "RV02.jpg",
-    "hex": "#fcdee9"
+    "hex": "#fcdee9",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Shock Pink",
@@ -2022,7 +2688,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV04.jpg",
     "extractedColor": "#fd50a5",
     "fileName": "RV04.jpg",
-    "hex": "#f9b0c5"
+    "hex": "#f9b0c5",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Cerise",
@@ -2031,7 +2700,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV06.jpg",
     "extractedColor": "#fd3ec9",
     "fileName": "RV06.jpg",
-    "hex": "#f692b3"
+    "hex": "#f692b3",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Fuchsia",
@@ -2040,7 +2712,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV09.jpg",
     "extractedColor": "#b7286d",
     "fileName": "RV09.jpg",
-    "hex": "#e87cac"
+    "hex": "#e87cac",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Pale Pink",
@@ -2049,7 +2724,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV10.jpg",
     "extractedColor": "#fdd7e1",
     "fileName": "RV10.jpg",
-    "hex": "#fef1f5"
+    "hex": "#fef1f5",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Pink",
@@ -2058,7 +2736,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV11.jpg",
     "extractedColor": "#dfb0bb",
     "fileName": "RV11.jpg",
-    "hex": "#fcdfe3"
+    "hex": "#fcdfe3",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Tender Pink",
@@ -2067,7 +2748,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV13.jpg",
     "extractedColor": "#fe83ac",
     "fileName": "RV13.jpg",
-    "hex": "#fcd3de"
+    "hex": "#fcd3de",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Begonia Pink",
@@ -2076,7 +2760,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV14.jpg",
     "extractedColor": "#fc3f71",
     "fileName": "RV14.jpg",
-    "hex": "#f8a0bc"
+    "hex": "#f8a0bc",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Deep Magenta",
@@ -2085,7 +2772,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV17.jpg",
     "extractedColor": "#c82a76",
     "fileName": "RV17.jpg",
-    "hex": "#e58bb5"
+    "hex": "#e58bb5",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Red Violet",
@@ -2094,7 +2784,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV19.jpg",
     "extractedColor": "#891c48",
     "fileName": "RV19.jpg",
-    "hex": "#de73a7"
+    "hex": "#de73a7",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Light Pink",
@@ -2103,7 +2796,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV21.jpg",
     "extractedColor": "#febbc2",
     "fileName": "RV21.jpg",
-    "hex": "#feeeed"
+    "hex": "#feeeed",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Pure Pink",
@@ -2112,7 +2808,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV23.jpg",
     "extractedColor": "#fea0bd",
     "fileName": "RV23.jpg",
-    "hex": "#fbc6cf"
+    "hex": "#fbc6cf",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Dog Rose Flower",
@@ -2121,7 +2820,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV25.jpg",
     "extractedColor": "#bf41b7",
     "fileName": "RV25.jpg",
-    "hex": "#f8a1c1"
+    "hex": "#f8a1c1",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Crimson",
@@ -2130,7 +2832,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV29.jpg",
     "extractedColor": "#9d112b",
     "fileName": "RV29.jpg",
-    "hex": "#f14a81"
+    "hex": "#f14a81",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Shadow Pink",
@@ -2139,7 +2844,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV32.jpg",
     "extractedColor": "#fbb4bf",
     "fileName": "RV32.jpg",
-    "hex": "#fddcd7"
+    "hex": "#fddcd7",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Dark Pink",
@@ -2148,7 +2856,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV34.jpg",
     "extractedColor": "#f286ad",
     "fileName": "RV34.jpg",
-    "hex": "#fbbcb8"
+    "hex": "#fbbcb8",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Salmon Pink",
@@ -2157,7 +2868,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV42.jpg",
     "extractedColor": "#feb9a8",
     "fileName": "RV42.jpg",
-    "hex": "#fbc7bf"
+    "hex": "#fbc7bf",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Cotton Candy",
@@ -2166,7 +2880,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV52.jpg",
     "extractedColor": "#dbb8d5",
     "fileName": "RV52.jpg",
-    "hex": "#dc9cb6"
+    "hex": "#dc9cb6",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Hollyhock",
@@ -2175,7 +2892,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV55.jpg",
     "extractedColor": "#cc78ab",
     "fileName": "RV55.jpg",
-    "hex": "#d96196"
+    "hex": "#d96196",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Begonia",
@@ -2184,7 +2904,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV63.jpg",
     "extractedColor": "#cd9cc1",
     "fileName": "RV63.jpg",
-    "hex": "#db8ab5"
+    "hex": "#db8ab5",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Raspberry",
@@ -2193,7 +2916,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV66.jpg",
     "extractedColor": "#8c4477",
     "fileName": "RV66.jpg",
-    "hex": "#8d3765"
+    "hex": "#8d3765",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Peony",
@@ -2202,7 +2928,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV69.jpg",
     "extractedColor": "#550e2a",
     "fileName": "RV69.jpg",
-    "hex": "#9c6276"
+    "hex": "#9c6276",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Grayish Cherry",
@@ -2211,7 +2940,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV91.jpg",
     "extractedColor": "#f4e1ec",
     "fileName": "RV91.jpg",
-    "hex": "#eddee8"
+    "hex": "#eddee8",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Smoky Purple",
@@ -2220,7 +2952,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV93.jpg",
     "extractedColor": "#deb5c6",
     "fileName": "RV93.jpg",
-    "hex": "#eec3d2"
+    "hex": "#eec3d2",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Baby Blossoms",
@@ -2229,7 +2964,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV95.jpg",
     "extractedColor": "#bd8da2",
     "fileName": "RV95.jpg",
-    "hex": "#c694aa"
+    "hex": "#c694aa",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Argyle Purple",
@@ -2238,7 +2976,10 @@
     "imgURL": "https://copic.jp/images/color/color_RV99.jpg",
     "extractedColor": "#391a26",
     "fileName": "RV99.jpg",
-    "hex": "#6e5764"
+    "hex": "#6e5764",
+    "family": [
+      "RV"
+    ]
   },
   {
     "name": "Toner Gray No.0",
@@ -2247,7 +2988,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-0.jpg",
     "extractedColor": "#e3e4e2",
     "fileName": "T-0.jpg",
-    "hex": "#f2f2f2"
+    "hex": "#f2f2f2",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.1",
@@ -2256,7 +3000,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-1.jpg",
     "extractedColor": "#cfcfcd",
     "fileName": "T-1.jpg",
-    "hex": "#f0f0ee"
+    "hex": "#f0f0ee",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.10",
@@ -2265,7 +3012,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-10.jpg",
     "extractedColor": "#232124",
     "fileName": "T-10.jpg",
-    "hex": "#1f1e1e"
+    "hex": "#1f1e1e",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.2",
@@ -2274,7 +3024,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-2.jpg",
     "extractedColor": "#b9b9b6",
     "fileName": "T-2.jpg",
-    "hex": "#e9e9e6"
+    "hex": "#e9e9e6",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.3",
@@ -2283,7 +3036,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-3.jpg",
     "extractedColor": "#a1a2a0",
     "fileName": "T-3.jpg",
-    "hex": "#dddcd7"
+    "hex": "#dddcd7",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.4",
@@ -2292,7 +3048,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-4.jpg",
     "extractedColor": "#80817e",
     "fileName": "T-4.jpg",
-    "hex": "#cac8c4"
+    "hex": "#cac8c4",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.5",
@@ -2301,7 +3060,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-5.jpg",
     "extractedColor": "#6a6f69",
     "fileName": "T-5.jpg",
-    "hex": "#b8b5b0"
+    "hex": "#b8b5b0",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.6",
@@ -2310,7 +3072,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-6.jpg",
     "extractedColor": "#505754",
     "fileName": "T-6.jpg",
-    "hex": "#a4a29e"
+    "hex": "#a4a29e",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.7",
@@ -2319,7 +3084,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-7.jpg",
     "extractedColor": "#39413e",
     "fileName": "T-7.jpg",
-    "hex": "#858380"
+    "hex": "#858380",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.8",
@@ -2328,7 +3096,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-8.jpg",
     "extractedColor": "#2c3532",
     "fileName": "T-8.jpg",
-    "hex": "#6f6d6a"
+    "hex": "#6f6d6a",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Toner Gray No.9",
@@ -2337,7 +3108,10 @@
     "imgURL": "https://copic.jp/images/color/color_T-9.jpg",
     "extractedColor": "#2a2c2e",
     "fileName": "T-9.jpg",
-    "hex": "#53504d"
+    "hex": "#53504d",
+    "family": [
+      "T"
+    ]
   },
   {
     "name": "Pale Heath",
@@ -2346,7 +3120,10 @@
     "imgURL": "https://copic.jp/images/color/color_V000.jpg",
     "extractedColor": "#fee3f6",
     "fileName": "V000.jpg",
-    "hex": "#f7f2f7"
+    "hex": "#f7f2f7",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Rose Quartz",
@@ -2355,7 +3132,10 @@
     "imgURL": "https://copic.jp/images/color/color_V0000.jpg",
     "extractedColor": "#fef4fb",
     "fileName": "V0000.jpg",
-    "hex": "#f3f1f8"
+    "hex": "#f3f1f8",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Heath",
@@ -2364,7 +3144,10 @@
     "imgURL": "https://copic.jp/images/color/color_V01.jpg",
     "extractedColor": "#f4acdf",
     "fileName": "V01.jpg",
-    "hex": "#edccde"
+    "hex": "#edccde",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Lilac",
@@ -2373,7 +3156,10 @@
     "imgURL": "https://copic.jp/images/color/color_V04.jpg",
     "extractedColor": "#e670f5",
     "fileName": "V04.jpg",
-    "hex": "#edb9d1"
+    "hex": "#edb9d1",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Azalea",
@@ -2382,7 +3168,10 @@
     "imgURL": "https://copic.jp/images/color/color_V05.jpg",
     "extractedColor": "#de6ebd",
     "fileName": "V05.jpg",
-    "hex": "#ecb4ce"
+    "hex": "#ecb4ce",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Lavender",
@@ -2391,7 +3180,10 @@
     "imgURL": "https://copic.jp/images/color/color_V06.jpg",
     "extractedColor": "#b44ea2",
     "fileName": "V06.jpg",
-    "hex": "#dba5c6"
+    "hex": "#dba5c6",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Violet",
@@ -2400,7 +3192,10 @@
     "imgURL": "https://copic.jp/images/color/color_V09.jpg",
     "extractedColor": "#401a76",
     "fileName": "V09.jpg",
-    "hex": "#97599a"
+    "hex": "#97599a",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Pale Lilac",
@@ -2409,7 +3204,10 @@
     "imgURL": "https://copic.jp/images/color/color_V12.jpg",
     "extractedColor": "#eaa8e3",
     "fileName": "V12.jpg",
-    "hex": "#f2dfeb"
+    "hex": "#f2dfeb",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Mallow",
@@ -2418,7 +3216,10 @@
     "imgURL": "https://copic.jp/images/color/color_V15.jpg",
     "extractedColor": "#b979c4",
     "fileName": "V15.jpg",
-    "hex": "#e0b6d1"
+    "hex": "#e0b6d1",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Amethyst",
@@ -2427,7 +3228,10 @@
     "imgURL": "https://copic.jp/images/color/color_V17.jpg",
     "extractedColor": "#543976",
     "fileName": "V17.jpg",
-    "hex": "#b3a1c7"
+    "hex": "#b3a1c7",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Wisteria",
@@ -2436,7 +3240,10 @@
     "imgURL": "https://copic.jp/images/color/color_V20.jpg",
     "extractedColor": "#d9d4e0",
     "fileName": "V20.jpg",
-    "hex": "#d5ccd6"
+    "hex": "#d5ccd6",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Ash Lavender",
@@ -2445,7 +3252,10 @@
     "imgURL": "https://copic.jp/images/color/color_V22.jpg",
     "extractedColor": "#b8b2c6",
     "fileName": "V22.jpg",
-    "hex": "#7b6f90"
+    "hex": "#7b6f90",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Pale Blackberry",
@@ -2454,7 +3264,10 @@
     "imgURL": "https://copic.jp/images/color/color_V25.jpg",
     "extractedColor": "#8c8197",
     "fileName": "V25.jpg",
-    "hex": "#b6aec6"
+    "hex": "#b6aec6",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Eggplant",
@@ -2463,7 +3276,10 @@
     "imgURL": "https://copic.jp/images/color/color_V28.jpg",
     "extractedColor": "#605e68",
     "fileName": "V28.jpg",
-    "hex": "#787aa0"
+    "hex": "#787aa0",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Pale Grape",
@@ -2472,7 +3288,10 @@
     "imgURL": "https://copic.jp/images/color/color_V91.jpg",
     "extractedColor": "#e3d0db",
     "fileName": "V91.jpg",
-    "hex": "#efd0d8"
+    "hex": "#efd0d8",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Early Grape",
@@ -2481,7 +3300,10 @@
     "imgURL": "https://copic.jp/images/color/color_V93.jpg",
     "extractedColor": "#d3bfcc",
     "fileName": "V93.jpg",
-    "hex": "#edcddf"
+    "hex": "#edcddf",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Light Grape",
@@ -2490,7 +3312,10 @@
     "imgURL": "https://copic.jp/images/color/color_V95.jpg",
     "extractedColor": "#af8fa2",
     "fileName": "V95.jpg",
-    "hex": "#c589aa"
+    "hex": "#c589aa",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Aubergine",
@@ -2499,7 +3324,10 @@
     "imgURL": "https://copic.jp/images/color/color_V99.jpg",
     "extractedColor": "#4a3745",
     "fileName": "V99.jpg",
-    "hex": "#4f334d"
+    "hex": "#4f334d",
+    "family": [
+      "V"
+    ]
   },
   {
     "name": "Warm Gray No.0",
@@ -2508,7 +3336,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-0.jpg",
     "extractedColor": "#efeae1",
     "fileName": "W-0.jpg",
-    "hex": "#f7f6f0"
+    "hex": "#f7f6f0",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.00",
@@ -2517,7 +3348,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-00.jpg",
     "extractedColor": "#f1f0eb",
     "fileName": "W-00.jpg",
-    "hex": "#f7f7f1"
+    "hex": "#f7f7f1",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.1",
@@ -2526,7 +3360,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-1.jpg",
     "extractedColor": "#e3ddd3",
     "fileName": "W-1.jpg",
-    "hex": "#eeede7"
+    "hex": "#eeede7",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.10",
@@ -2535,7 +3372,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-10.jpg",
     "extractedColor": "#332f29",
     "fileName": "W-10.jpg",
-    "hex": "#1f1e1d"
+    "hex": "#1f1e1d",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.2",
@@ -2544,7 +3384,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-2.jpg",
     "extractedColor": "#d3cabe",
     "fileName": "W-2.jpg",
-    "hex": "#eeede9"
+    "hex": "#eeede9",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.3",
@@ -2553,7 +3396,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-3.jpg",
     "extractedColor": "#bfb4a5",
     "fileName": "W-3.jpg",
-    "hex": "#dddcd5"
+    "hex": "#dddcd5",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.4",
@@ -2562,7 +3408,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-4.jpg",
     "extractedColor": "#aa9f91",
     "fileName": "W-4.jpg",
-    "hex": "#cac9c2"
+    "hex": "#cac9c2",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.5",
@@ -2571,7 +3420,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-5.jpg",
     "extractedColor": "#908274",
     "fileName": "W-5.jpg",
-    "hex": "#b8b6b0"
+    "hex": "#b8b6b0",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.6",
@@ -2580,7 +3432,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-6.jpg",
     "extractedColor": "#796d5f",
     "fileName": "W-6.jpg",
-    "hex": "#a4a39c"
+    "hex": "#a4a39c",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.7",
@@ -2589,7 +3444,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-7.jpg",
     "extractedColor": "#4d4539",
     "fileName": "W-7.jpg",
-    "hex": "#86847f"
+    "hex": "#86847f",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.8",
@@ -2598,7 +3456,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-8.jpg",
     "extractedColor": "#443d34",
     "fileName": "W-8.jpg",
-    "hex": "#6f6e69"
+    "hex": "#6f6e69",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Warm Gray No.9",
@@ -2607,7 +3468,10 @@
     "imgURL": "https://copic.jp/images/color/color_W-9.jpg",
     "extractedColor": "#363129",
     "fileName": "W-9.jpg",
-    "hex": "#53504c"
+    "hex": "#53504c",
+    "family": [
+      "W"
+    ]
   },
   {
     "name": "Barium Yellow",
@@ -2616,7 +3480,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y00.jpg",
     "extractedColor": "#fffeaf",
     "fileName": "Y00.jpg",
-    "hex": "#fffee5"
+    "hex": "#fffee5",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Pale Lemon",
@@ -2625,7 +3492,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y000.jpg",
     "extractedColor": "#fefed8",
     "fileName": "Y000.jpg",
-    "hex": "#fffff6"
+    "hex": "#fffff6",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Yellow Fluorite",
@@ -2634,7 +3504,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y0000.jpg",
     "extractedColor": "#fefee1",
     "fileName": "Y0000.jpg",
-    "hex": "#fffef7"
+    "hex": "#fffef7",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Canary Yellow",
@@ -2643,7 +3516,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y02.jpg",
     "extractedColor": "#fefa65",
     "fileName": "Y02.jpg",
-    "hex": "#f9f5a0"
+    "hex": "#f9f5a0",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Acacia",
@@ -2652,7 +3528,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y04.jpg",
     "extractedColor": "#fefd5b",
     "fileName": "Y04.jpg",
-    "hex": "#f3e953"
+    "hex": "#f3e953",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Yellow",
@@ -2661,7 +3540,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y06.jpg",
     "extractedColor": "#fffe38",
     "fileName": "Y06.jpg",
-    "hex": "#fff772"
+    "hex": "#fff772",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Acid Yellow",
@@ -2670,7 +3552,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y08.jpg",
     "extractedColor": "#fede31",
     "fileName": "Y08.jpg",
-    "hex": "#fff500"
+    "hex": "#fff500",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Pale Yellow",
@@ -2679,7 +3564,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y11.jpg",
     "extractedColor": "#feed84",
     "fileName": "Y11.jpg",
-    "hex": "#fffcd3"
+    "hex": "#fffcd3",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Lemon Yellow",
@@ -2688,7 +3576,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y13.jpg",
     "extractedColor": "#fee667",
     "fileName": "Y13.jpg",
-    "hex": "#fcf9b7"
+    "hex": "#fcf9b7",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Cadmium Yellow",
@@ -2697,7 +3588,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y15.jpg",
     "extractedColor": "#fcce33",
     "fileName": "Y15.jpg",
-    "hex": "#ffee72"
+    "hex": "#ffee72",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Golden Yellow",
@@ -2706,7 +3600,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y17.jpg",
     "extractedColor": "#feaa23",
     "fileName": "Y17.jpg",
-    "hex": "#ffea55"
+    "hex": "#ffea55",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Lightning Yellow",
@@ -2715,7 +3612,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y18.jpg",
     "extractedColor": "#fec116",
     "fileName": "Y18.jpg",
-    "hex": "#fff257"
+    "hex": "#fff257",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Napoli Yellow",
@@ -2724,7 +3624,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y19.jpg",
     "extractedColor": "#feb10a",
     "fileName": "Y19.jpg",
-    "hex": "#ffee39"
+    "hex": "#ffee39",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Buttercup Yellow",
@@ -2733,7 +3636,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y21.jpg",
     "extractedColor": "#faca6e",
     "fileName": "Y21.jpg",
-    "hex": "#fff2c9"
+    "hex": "#fff2c9",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Yellowish Beige",
@@ -2742,7 +3648,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y23.jpg",
     "extractedColor": "#fbcd7e",
     "fileName": "Y23.jpg",
-    "hex": "#fdeabe"
+    "hex": "#fdeabe",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Mustard",
@@ -2751,7 +3660,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y26.jpg",
     "extractedColor": "#bd891c",
     "fileName": "Y26.jpg",
-    "hex": "#f6e56f"
+    "hex": "#f6e56f",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Lionet Gold",
@@ -2760,7 +3672,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y28.jpg",
     "extractedColor": "#bfa264",
     "fileName": "Y28.jpg",
-    "hex": "#d5b56e"
+    "hex": "#d5b56e",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Cashmere",
@@ -2769,7 +3684,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y32.jpg",
     "extractedColor": "#fed995",
     "fileName": "Y32.jpg",
-    "hex": "#fbe6ca"
+    "hex": "#fbe6ca",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Maize",
@@ -2778,7 +3696,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y35.jpg",
     "extractedColor": "#febd49",
     "fileName": "Y35.jpg",
-    "hex": "#ffe081"
+    "hex": "#ffe081",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Honey",
@@ -2787,7 +3708,10 @@
     "imgURL": "https://copic.jp/images/color/color_Y38.jpg",
     "extractedColor": "#fe9c1f",
     "fileName": "Y38.jpg",
-    "hex": "#ffff99"
+    "hex": "#ffff99",
+    "family": [
+      "Y"
+    ]
   },
   {
     "name": "Mimosa Yellow",
@@ -2796,7 +3720,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG00.jpg",
     "extractedColor": "#e0e37d",
     "fileName": "YG00.jpg",
-    "hex": "#eeeba6"
+    "hex": "#eeeba6",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Lily White",
@@ -2805,7 +3732,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG0000.jpg",
     "extractedColor": "#f2f2c0",
     "fileName": "YG0000.jpg",
-    "hex": "#f7f9e4"
+    "hex": "#f7f9e4",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Green Bice",
@@ -2814,7 +3744,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG01.jpg",
     "extractedColor": "#cde75f",
     "fileName": "YG01.jpg",
-    "hex": "#eef2c8"
+    "hex": "#eef2c8",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Yellow Green",
@@ -2823,7 +3756,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG03.jpg",
     "extractedColor": "#a5c354",
     "fileName": "YG03.jpg",
-    "hex": "#eaeeb2"
+    "hex": "#eaeeb2",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Salad",
@@ -2832,7 +3768,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG05.jpg",
     "extractedColor": "#9eeb4b",
     "fileName": "YG05.jpg",
-    "hex": "#e2e999"
+    "hex": "#e2e999",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Yellowish Green",
@@ -2841,7 +3780,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG06.jpg",
     "extractedColor": "#97ea5b",
     "fileName": "YG06.jpg",
-    "hex": "#d3e398"
+    "hex": "#d3e398",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Acid Green",
@@ -2850,7 +3792,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG07.jpg",
     "extractedColor": "#6ec53d",
     "fileName": "YG07.jpg",
-    "hex": "#b6d135"
+    "hex": "#b6d135",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Lettuce Green",
@@ -2859,7 +3804,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG09.jpg",
     "extractedColor": "#4ab139",
     "fileName": "YG09.jpg",
-    "hex": "#93c560"
+    "hex": "#93c560",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Mignonette",
@@ -2868,7 +3816,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG11.jpg",
     "extractedColor": "#d7faa6",
     "fileName": "YG11.jpg",
-    "hex": "#ecf3d5"
+    "hex": "#ecf3d5",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Chartreuse",
@@ -2877,7 +3828,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG13.jpg",
     "extractedColor": "#b1d453",
     "fileName": "YG13.jpg",
-    "hex": "#dfe9a6"
+    "hex": "#dfe9a6",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Grass Green",
@@ -2886,7 +3840,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG17.jpg",
     "extractedColor": "#72a13b",
     "fileName": "YG17.jpg",
-    "hex": "#85bf4a"
+    "hex": "#85bf4a",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Anise",
@@ -2895,7 +3852,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG21.jpg",
     "extractedColor": "#fcfc7a",
     "fileName": "YG21.jpg",
-    "hex": "#f9f8c6"
+    "hex": "#f9f8c6",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "New Leaf",
@@ -2904,7 +3864,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG23.jpg",
     "extractedColor": "#bdd74f",
     "fileName": "YG23.jpg",
-    "hex": "#efef98"
+    "hex": "#efef98",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Celadon Green",
@@ -2913,7 +3876,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG25.jpg",
     "extractedColor": "#9fd042",
     "fileName": "YG25.jpg",
-    "hex": "#dce47f"
+    "hex": "#dce47f",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Pale Cobalt Green",
@@ -2922,7 +3888,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG41.jpg",
     "extractedColor": "#bef5ac",
     "fileName": "YG41.jpg",
-    "hex": "#e1eed9"
+    "hex": "#e1eed9",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Cobalt Green",
@@ -2931,7 +3900,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG45.jpg",
     "extractedColor": "#77a96d",
     "fileName": "YG45.jpg",
-    "hex": "#c5e0be"
+    "hex": "#c5e0be",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Pale Moss",
@@ -2940,7 +3912,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG61.jpg",
     "extractedColor": "#c1d29e",
     "fileName": "YG61.jpg",
-    "hex": "#b7ca90"
+    "hex": "#b7ca90",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Pea Green",
@@ -2949,7 +3924,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG63.jpg",
     "extractedColor": "#99b16f",
     "fileName": "YG63.jpg",
-    "hex": "#b5d2ab"
+    "hex": "#b5d2ab",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Moss",
@@ -2958,7 +3936,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG67.jpg",
     "extractedColor": "#4e7033",
     "fileName": "YG67.jpg",
-    "hex": "#97c592"
+    "hex": "#97c592",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Putty",
@@ -2967,7 +3948,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG91.jpg",
     "extractedColor": "#ded0a1",
     "fileName": "YG91.jpg",
-    "hex": "#e4dfb8"
+    "hex": "#e4dfb8",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Grayish Yellow",
@@ -2976,7 +3960,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG93.jpg",
     "extractedColor": "#b8b770",
     "fileName": "YG93.jpg",
-    "hex": "#dedba6"
+    "hex": "#dedba6",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Pale Olive",
@@ -2985,7 +3972,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG95.jpg",
     "extractedColor": "#a29835",
     "fileName": "YG95.jpg",
-    "hex": "#dbd267"
+    "hex": "#dbd267",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Spanish Olive",
@@ -2994,7 +3984,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG97.jpg",
     "extractedColor": "#6d6a1f",
     "fileName": "YG97.jpg",
-    "hex": "#aaa000"
+    "hex": "#aaa000",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Marine Green",
@@ -3003,7 +3996,10 @@
     "imgURL": "https://copic.jp/images/color/color_YG99.jpg",
     "extractedColor": "#4f4d1a",
     "fileName": "YG99.jpg",
-    "hex": "#6a7800"
+    "hex": "#6a7800",
+    "family": [
+      "YG"
+    ]
   },
   {
     "name": "Powder Pink",
@@ -3012,7 +4008,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR00.jpg",
     "extractedColor": "#fed7a7",
     "fileName": "YR00.jpg",
-    "hex": "#fedfc7"
+    "hex": "#fedfc7",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Silk",
@@ -3021,7 +4020,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR000.jpg",
     "extractedColor": "#fee5cb",
     "fileName": "YR000.jpg",
-    "hex": "#fff1e1"
+    "hex": "#fff1e1",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Pale Chiffon",
@@ -3030,7 +4032,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR0000.jpg",
     "extractedColor": "#f8ecde",
     "fileName": "YR0000.jpg",
-    "hex": "#fcf6eb"
+    "hex": "#fcf6eb",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Peach Puff",
@@ -3039,7 +4044,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR01.jpg",
     "extractedColor": "#fed09c",
     "fileName": "YR01.jpg",
-    "hex": "#fdd6b7"
+    "hex": "#fdd6b7",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Light Orange",
@@ -3048,7 +4056,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR02.jpg",
     "extractedColor": "#fea462",
     "fileName": "YR02.jpg",
-    "hex": "#ffe4cf"
+    "hex": "#ffe4cf",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Chrome Orange",
@@ -3057,7 +4068,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR04.jpg",
     "extractedColor": "#fea132",
     "fileName": "YR04.jpg",
-    "hex": "#ffcf6d"
+    "hex": "#ffcf6d",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Cadmium Orange",
@@ -3066,7 +4080,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR07.jpg",
     "extractedColor": "#fe7327",
     "fileName": "YR07.jpg",
-    "hex": "#f67833"
+    "hex": "#f67833",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Chinese Orange",
@@ -3075,7 +4092,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR09.jpg",
     "extractedColor": "#c1492c",
     "fileName": "YR09.jpg",
-    "hex": "#f35700"
+    "hex": "#f35700",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Loquat",
@@ -3084,7 +4104,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR12.jpg",
     "extractedColor": "#feb358",
     "fileName": "YR12.jpg",
-    "hex": "#fee391"
+    "hex": "#fee391",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Caramel",
@@ -3093,7 +4116,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR14.jpg",
     "extractedColor": "#fd9938",
     "fileName": "YR14.jpg",
-    "hex": "#ffd34c"
+    "hex": "#ffd34c",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Pumpkin Yellow",
@@ -3102,7 +4128,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR15.jpg",
     "extractedColor": "#fea435",
     "fileName": "YR15.jpg",
-    "hex": "#ffd198"
+    "hex": "#ffd198",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Apricot",
@@ -3111,7 +4140,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR16.jpg",
     "extractedColor": "#fe9323",
     "fileName": "YR16.jpg",
-    "hex": "#ffc417"
+    "hex": "#ffc417",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Sanguine",
@@ -3120,7 +4152,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR18.jpg",
     "extractedColor": "#cc5322",
     "fileName": "YR18.jpg",
-    "hex": "#f57335"
+    "hex": "#f57335",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Yellowish Shade",
@@ -3129,7 +4164,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR20.jpg",
     "extractedColor": "#fee3a5",
     "fileName": "YR20.jpg",
-    "hex": "#ffe9c9"
+    "hex": "#ffe9c9",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Cream",
@@ -3138,7 +4176,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR21.jpg",
     "extractedColor": "#fed16e",
     "fileName": "YR21.jpg",
-    "hex": "#f8e5bb"
+    "hex": "#f8e5bb",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Yellow Ochre",
@@ -3147,7 +4188,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR23.jpg",
     "extractedColor": "#eca739",
     "fileName": "YR23.jpg",
-    "hex": "#f2db98"
+    "hex": "#f2db98",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Pale Sepia",
@@ -3156,7 +4200,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR24.jpg",
     "extractedColor": "#f09f28",
     "fileName": "YR24.jpg",
-    "hex": "#f6dc6b"
+    "hex": "#f6dc6b",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Tuscan Orange",
@@ -3165,7 +4212,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR27.jpg",
     "extractedColor": "#ac6214",
     "fileName": "YR27.jpg",
-    "hex": "#d86745"
+    "hex": "#d86745",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Macadamia Nut",
@@ -3174,7 +4224,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR30.jpg",
     "extractedColor": "#fefbdf",
     "fileName": "YR30.jpg",
-    "hex": "#f7edc9"
+    "hex": "#f7edc9",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Light Reddish Yellow",
@@ -3183,7 +4236,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR31.jpg",
     "extractedColor": "#fedd7d",
     "fileName": "YR31.jpg",
-    "hex": "#ffe6b2"
+    "hex": "#ffe6b2",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Spring Orange",
@@ -3192,7 +4248,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR61.jpg",
     "extractedColor": "#fec194",
     "fileName": "YR61.jpg",
-    "hex": "#fee2cc"
+    "hex": "#fee2cc",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Atoll",
@@ -3201,7 +4260,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR65.jpg",
     "extractedColor": "#feaa67",
     "fileName": "YR65.jpg",
-    "hex": "#febb65"
+    "hex": "#febb65",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Orange",
@@ -3210,7 +4272,10 @@
     "imgURL": "https://copic.jp/images/color/color_YR68.jpg",
     "extractedColor": "#fd6e20",
     "fileName": "YR68.jpg",
-    "hex": "#f67700"
+    "hex": "#f67700",
+    "family": [
+      "YR"
+    ]
   },
   {
     "name": "Mellow Peach",
@@ -3219,6 +4284,9 @@
     "imgURL": "https://copic.jp/images/color/color_YR82.jpg",
     "extractedColor": "#fed3a3",
     "fileName": "YR82.jpg",
-    "hex": "#ffd198"
+    "hex": "#ffd198",
+    "family": [
+      "YR"
+    ]
   }
 ]

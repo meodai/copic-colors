@@ -99,6 +99,11 @@ fs.readdirSync(path.join(__dirname, '..', 'images')).forEach(file => {
     return 0;
   }).forEach(c => {
     c.name = titleCase(c.name);
+    // extract color family
+    const extFam = c.number.match(/[A-Z]+/);
+    const family = extFam ? extFam : 'A';
+    c.family = family;
+    
     //c.hex = c.hex.toLowerCase();
   });
 
